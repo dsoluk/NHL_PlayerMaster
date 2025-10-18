@@ -301,9 +301,217 @@ def main():
     # Save a run summary for visibility (new vs existing)
     with open('run_summary.json', 'w', encoding='utf-8') as file:
         json.dump(summary, file, indent=2)
+
+    # Fetch and process Natural Stat Trick player names (additional source)
+    try:
+        nst_processed, nst_summary = process_nst_player_names(registry)
+        with open('nst_players.json', 'w', encoding='utf-8') as file:
+            json.dump(nst_processed, file, indent=2)
+        with open('nst_run_summary.json', 'w', encoding='utf-8') as file:
+            json.dump(nst_summary, file, indent=2)
+    except Exception as e:
+        print(f"NST processing failed: {e}")
     
     # Save the updated player registry
     registry.export_to_json()
+
+
+
+
+# --- Natural Stat Trick integration: fetch and parse player names ---
+from html.parser import HTMLParser
+
+
+def fetch_nst_html(from_season="20252026", thru_season="20252026", stype="2"):
+    """Fetch NaturalStatTrick player-teams page HTML. Returns text or None on failure."""
+    # Base URL derived from user's sample
+    base_url = (
+        "https://www.naturalstattrick.com/playerteams.php"
+        f"?fromseason={from_season}&thruseason={thru_season}&stype={stype}"
+        "&sit=all&score=all&stdoi=std&rate=y&team=ALL&pos=S&loc=B&toi=0"
+        "&gpfilt=gpteam&fd=&td=&tgp=5&lines=single&draftteam=ALL"
+    )
+    try:
+        resp = requests.get(base_url, timeout=30)
+        if resp.status_code == 200:
+            return resp.text
+        else:
+            print(f"NST request failed: HTTP {resp.status_code}")
+            return None
+    except Exception as e:
+        print(f"NST request error: {e}")
+        return None
+
+
+class _SimpleTableParser(HTMLParser):
+    """Very small HTML table parser to gather headers and rows from the first table.
+    Avoids external dependencies like BeautifulSoup.
+    """
+    def __init__(self):
+        super().__init__()
+        self.in_table = False
+        self.in_tr = False
+        self.in_th = False
+        self.in_td = False
+        self.headers = []
+        self.rows = []
+        self.current_row = []
+        self.cell_buffer = []
+        self.seen_first_table = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "table" and not self.seen_first_table:
+            self.in_table = True
+        elif self.in_table and tag == "tr":
+            self.in_tr = True
+            self.current_row = []
+        elif self.in_table and tag == "th":
+            self.in_th = True
+            self.cell_buffer = []
+        elif self.in_table and tag == "td":
+            self.in_td = True
+            self.cell_buffer = []
+
+    def handle_endtag(self, tag):
+        if tag == "table" and self.in_table:
+            self.in_table = False
+            self.seen_first_table = True
+        elif tag == "tr" and self.in_tr:
+            self.in_tr = False
+            # If we have header cells and no headers stored yet, treat as header row
+            if self.headers:
+                if self.current_row:
+                    self.rows.append(self.current_row)
+            else:
+                if self.current_row:
+                    self.headers = self.current_row
+        elif tag == "th" and self.in_th:
+            text = ("".join(self.cell_buffer)).strip()
+            self.current_row.append(text)
+            self.in_th = False
+        elif tag == "td" and self.in_td:
+            text = ("".join(self.cell_buffer)).strip()
+            self.current_row.append(text)
+            self.in_td = False
+
+    def handle_data(self, data):
+        if (self.in_th or self.in_td) and self.in_table and self.in_tr:
+            self.cell_buffer.append(data)
+
+
+def parse_nst_players(html_text):
+    """Parse NST HTML table into a list of team dicts with players.
+    Returns list shaped similarly to NHL team data processing for reuse.
+    """
+    if not html_text:
+        return []
+    parser = _SimpleTableParser()
+    parser.feed(html_text)
+
+    headers = [h.strip() for h in parser.headers]
+    # Candidate column names
+    player_keys = ["Player", "Name", "PLAYER"]
+    team_keys = ["Team", "Tm", "TEAM", "TM"]
+
+    def find_idx(candidates):
+        for c in candidates:
+            if c in headers:
+                return headers.index(c)
+        # Try case-insensitive fallback
+        lower = [h.lower() for h in headers]
+        for c in candidates:
+            if c.lower() in lower:
+                return lower.index(c.lower())
+        return -1
+
+    pi = find_idx(player_keys)
+    ti = find_idx(team_keys)
+    if pi == -1:
+        print("NST parse warning: Player column not found")
+        return []
+    # Team may be absent in some views; in that case group under Unknown
+
+    teams = {}
+    for row in parser.rows:
+        if pi >= len(row):
+            continue
+        name = row[pi].strip()
+        if not name:
+            continue
+        team = ""
+        if ti != -1 and ti < len(row):
+            team = row[ti].strip().upper()
+        team = team or "UNKNOWN"
+        if team not in teams:
+            teams[team] = set()
+        teams[team].add(name)
+
+    processed = []
+    for team_abbrev, names in teams.items():
+        team_info = {
+            "teamName": "",
+            "teamAbbrev": team_abbrev,
+            "players": [{
+                "source_id": None,
+                "name": n,
+                "attributes": {
+                    "position": "",
+                    "jersey_number": "",
+                    "last_seen_teamAbbrev": team_abbrev,
+                    "last_seen_teamName": "",
+                }
+            } for n in sorted(names)]
+        }
+        processed.append(team_info)
+    return processed
+
+
+def process_nst_player_names(registry, from_season="20252026", thru_season="20252026"):
+    """Fetch and register player names from NaturalStatTrick.
+    Returns (processed_data, summary) similar to process_player_data.
+    """
+    html = fetch_nst_html(from_season, thru_season)
+    data = parse_nst_players(html)
+
+    # Reuse registration flow with source name 'naturalstattrick'
+    source = "naturalstattrick"
+    processed_data = []
+    summary = {"totals": {"new": 0, "existing": 0}, "teams": []}
+
+    for team in data:
+        team_abbrev = team.get("teamAbbrev", "")
+        team_name = team.get("teamName", "")
+        team_new = 0
+        team_existing = 0
+        processed_count = 0
+        out_team = {"teamName": team_name, "teamAbbrev": team_abbrev, "players": []}
+        for p in team.get("players", []):
+            name = p.get("name", "").strip()
+            attrs = p.get("attributes", {})
+            if not name:
+                continue
+            master_id, created = registry.register_player(source, None, name, attrs)
+            out_p = dict(p)
+            out_p["master_id"] = master_id
+            out_team["players"].append(out_p)
+            processed_count += 1
+            if created:
+                team_new += 1
+            else:
+                team_existing += 1
+        print(f"NST: Processed {processed_count} players for {team_abbrev or team_name} (new: {team_new}, existing: {team_existing})")
+        summary["teams"].append({
+            "teamAbbrev": team_abbrev,
+            "teamName": team_name,
+            "new": team_new,
+            "existing": team_existing,
+            "total": processed_count
+        })
+        summary["totals"]["new"] += team_new
+        summary["totals"]["existing"] += team_existing
+        processed_data.append(out_team)
+
+    return processed_data, summary
 
 
 if __name__ == "__main__":

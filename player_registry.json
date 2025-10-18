@@ -2264,13 +2264,14 @@
   "175": {
     "source_ids": {
       "nhl_api": 8477476,
-      "https://www.naturalstattrick.com/playerteams.php?stdoi=std": 8477476
+      "https://www.naturalstattrick.com/playerteams.php?stdoi=std": 8477476,
+      "naturalstattrick": null
     },
     "canonical_name": "artturi lehkonen",
     "attributes": {
       "position": "L",
       "jersey_number": 62,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "BOS",
       "last_seen_teamName": ""
     }
   },
