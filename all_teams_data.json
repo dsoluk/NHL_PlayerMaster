@@ -4537,31 +4537,6 @@
     ],
     "defensemen": [
       {
-        "id": 8482072,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8482072.png",
-        "firstName": {
-          "default": "Jack"
-        },
-        "lastName": {
-          "default": "Ahcan"
-        },
-        "sweaterNumber": 15,
-        "positionCode": "D",
-        "shootsCatches": "L",
-        "heightInInches": 68,
-        "weightInPounds": 180,
-        "heightInCentimeters": 173,
-        "weightInKilograms": 82,
-        "birthDate": "1997-05-18",
-        "birthCity": {
-          "default": "Savage"
-        },
-        "birthCountry": "USA",
-        "birthStateProvince": {
-          "default": "MN"
-        }
-      },
-      {
         "id": 8470613,
         "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8470613.png",
         "firstName": {
@@ -8082,31 +8057,29 @@
         "birthCountry": "RUS"
       },
       {
-        "id": 8483499,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8483499.png",
+        "id": 8475752,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475752.png",
         "firstName": {
-          "default": "Liam"
+          "default": "Tyler"
         },
         "lastName": {
-          "default": "Ohgren",
-          "cs": "\u00d6hgren",
-          "fi": "\u00d6hgren",
-          "sk": "\u00d6hgren",
-          "sv": "\u00d6hgren"
+          "default": "Pitlick"
         },
-        "sweaterNumber": 28,
-        "positionCode": "L",
-        "shootsCatches": "L",
-        "heightInInches": 72,
-        "weightInPounds": 187,
-        "heightInCentimeters": 183,
-        "weightInKilograms": 85,
-        "birthDate": "2004-01-28",
+        "sweaterNumber": 19,
+        "positionCode": "C",
+        "shootsCatches": "R",
+        "heightInInches": 74,
+        "weightInPounds": 199,
+        "heightInCentimeters": 188,
+        "weightInKilograms": 90,
+        "birthDate": "1991-11-01",
         "birthCity": {
-          "default": "Stockholm",
-          "fi": "Tukholma"
+          "default": "Minneapolis"
         },
-        "birthCountry": "SWE"
+        "birthCountry": "USA",
+        "birthStateProvince": {
+          "default": "MN"
+        }
       },
       {
         "id": 8482079,
@@ -8355,6 +8328,30 @@
         }
       },
       {
+        "id": 8483460,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8483460.png",
+        "firstName": {
+          "default": "David"
+        },
+        "lastName": {
+          "default": "Jiricek",
+          "cs": "Ji\u0159\u00ed\u010dek",
+          "sk": "Ji\u0159\u00ed\u010dek"
+        },
+        "sweaterNumber": 55,
+        "positionCode": "D",
+        "shootsCatches": "R",
+        "heightInInches": 76,
+        "weightInPounds": 204,
+        "heightInCentimeters": 193,
+        "weightInKilograms": 93,
+        "birthDate": "2003-11-28",
+        "birthCity": {
+          "default": "Klatovy"
+        },
+        "birthCountry": "CZE"
+      },
+      {
         "id": 8478136,
         "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478136.png",
         "firstName": {
@@ -8485,6 +8482,31 @@
         "birthDate": "1994-05-07",
         "birthCity": {
           "default": "Burlington"
+        },
+        "birthCountry": "CAN",
+        "birthStateProvince": {
+          "default": "ON"
+        }
+      },
+      {
+        "id": 8483424,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483424.png",
+        "firstName": {
+          "default": "Owen"
+        },
+        "lastName": {
+          "default": "Beck"
+        },
+        "sweaterNumber": 62,
+        "positionCode": "C",
+        "shootsCatches": "R",
+        "heightInInches": 72,
+        "weightInPounds": 199,
+        "heightInCentimeters": 183,
+        "weightInKilograms": 90,
+        "birthDate": "2004-02-03",
+        "birthCity": {
+          "default": "Port Hope"
         },
         "birthCountry": "CAN",
         "birthStateProvince": {
@@ -18466,6 +18488,29 @@
         "birthStateProvince": {
           "default": "MN"
         }
+      },
+      {
+        "id": 8483471,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8483471.png",
+        "firstName": {
+          "default": "Brad"
+        },
+        "lastName": {
+          "default": "Lambert"
+        },
+        "sweaterNumber": 93,
+        "positionCode": "C",
+        "shootsCatches": "R",
+        "heightInInches": 73,
+        "weightInPounds": 173,
+        "heightInCentimeters": 185,
+        "weightInKilograms": 78,
+        "birthDate": "2003-12-19",
+        "birthCity": {
+          "default": "Lahti",
+          "sv": "Lahtis"
+        },
+        "birthCountry": "FIN"
       },
       {
         "id": 8476480,

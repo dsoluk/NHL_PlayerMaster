@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NHLfantasy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="added nst">
+      <change beforePath="$PROJECT_DIR$/Team2TM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Team2TM.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_teams_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nst_players.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_players.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nst_run_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_run_summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_registry.json" beforeDir="false" afterPath="$PROJECT_DIR$/player_registry.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/run_summary.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dsoluk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dsoluk/NHL_PlayerMaster.git",
+    "accountId": "bbf4a87e-95b6-43c6-a613-71d70dad8adc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -95,8 +107,25 @@
       <workItem from="1733872158239" duration="353000" />
       <workItem from="1733872522095" duration="21435000" />
       <workItem from="1760660432957" duration="1485000" />
-      <workItem from="1760710740390" duration="8337000" />
+      <workItem from="1760710740390" duration="26112000" />
     </task>
+    <task id="LOCAL-00001" summary="added summary">
+      <option name="closed" value="true" />
+      <created>1760747130320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760747130320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added nst">
+      <option name="closed" value="true" />
+      <created>1760750448211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760750448211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +142,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added summary" />
+    <MESSAGE value="added nst" />
+    <option name="LAST_COMMIT_MESSAGE" value="added nst" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NHLfantasy$main.coverage" NAME="main Coverage Results" MODIFIED="1760746764929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NHLfantasy$main.coverage" NAME="main Coverage Results" MODIFIED="1760812627424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
