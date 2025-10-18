@@ -1,0 +1,232 @@
+{
+  "totals": {
+    "new": 0,
+    "existing": 361
+  },
+  "teams": [
+    {
+      "teamAbbrev": "COL",
+      "teamName": "",
+      "new": 0,
+      "existing": 9,
+      "total": 9
+    },
+    {
+      "teamAbbrev": "EDM",
+      "teamName": "",
+      "new": 0,
+      "existing": 13,
+      "total": 13
+    },
+    {
+      "teamAbbrev": "TBL",
+      "teamName": "",
+      "new": 0,
+      "existing": 10,
+      "total": 10
+    },
+    {
+      "teamAbbrev": "TOR",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "MIN",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "BOS",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "NJD",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "OTT",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "VGK",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "FLA",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "NSH",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "DAL",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "NYR",
+      "teamName": "",
+      "new": 0,
+      "existing": 10,
+      "total": 10
+    },
+    {
+      "teamAbbrev": "CBJ",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "WPG",
+      "teamName": "",
+      "new": 0,
+      "existing": 10,
+      "total": 10
+    },
+    {
+      "teamAbbrev": "PIT",
+      "teamName": "",
+      "new": 0,
+      "existing": 10,
+      "total": 10
+    },
+    {
+      "teamAbbrev": "BUF",
+      "teamName": "",
+      "new": 0,
+      "existing": 13,
+      "total": 13
+    },
+    {
+      "teamAbbrev": "VAN",
+      "teamName": "",
+      "new": 0,
+      "existing": 9,
+      "total": 9
+    },
+    {
+      "teamAbbrev": "WSH",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "SJS",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "UTA",
+      "teamName": "",
+      "new": 0,
+      "existing": 9,
+      "total": 9
+    },
+    {
+      "teamAbbrev": "LAK",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "CAR",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "PHI",
+      "teamName": "",
+      "new": 0,
+      "existing": 11,
+      "total": 11
+    },
+    {
+      "teamAbbrev": "DET",
+      "teamName": "",
+      "new": 0,
+      "existing": 9,
+      "total": 9
+    },
+    {
+      "teamAbbrev": "STL",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "NYI",
+      "teamName": "",
+      "new": 0,
+      "existing": 13,
+      "total": 13
+    },
+    {
+      "teamAbbrev": "CGY",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "MTL",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "CHI",
+      "teamName": "",
+      "new": 0,
+      "existing": 10,
+      "total": 10
+    },
+    {
+      "teamAbbrev": "SEA",
+      "teamName": "",
+      "new": 0,
+      "existing": 12,
+      "total": 12
+    },
+    {
+      "teamAbbrev": "ANA",
+      "teamName": "",
+      "new": 0,
+      "existing": 14,
+      "total": 14
+    }
+  ]
+}

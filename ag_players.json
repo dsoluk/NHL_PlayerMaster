@@ -1,0 +1,4165 @@
+[
+  {
+    "teamName": "",
+    "teamAbbrev": "COL",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Artturi Lehkonen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 174
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brock Nelson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 177
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cale Makar",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 182
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Devon Toews",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 186
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Gabriel Landeskog",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 173
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Martin Necas",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 176
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nathan Mackinnon",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 175
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ross Colton",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 169
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Valeri Nichushkin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "COL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 178
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "EDM",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Henrique",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 239
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Andrew Mangiapane",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 245
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Connor McDavid",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 246
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Darnell Nurse",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 257
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Evan Bouchard",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 253
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Isaac Howard",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 240
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake Walman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 243
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Leon Draisaitl",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 237
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mattias Ekholm",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 251
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Nugent-Hopkins",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 247
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Trent Frederic",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 238
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vasily Podkolzin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 249
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zach Hyman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 241
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "TBL",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anthony Cirelli",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 604
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brandon Hagel",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 612
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brayden Point",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 612
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Conor Geekie",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 607
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Darren Raddysh",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 624
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake Guentzel",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 611
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nick Paul",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 615
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nikita Kucherov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 614
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Oliver Bjorkstrand",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 602
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Victor Hedman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TBL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 620
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "TOR",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Auston Matthews",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 637
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Bobby McMann",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 638
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Chris Tanev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 649
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake McCabe",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 646
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "John Tavares",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 642
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matias Maccelli",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 636
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matthew Knies",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 633
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Max Domi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 630
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Morgan Rielly",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 648
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nicolas Roy",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 640
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Oliver Ekman-Larsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 645
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "William Nylander",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "TOR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 639
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "MIN",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brock Faber",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 329
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jacob Middleton",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 332
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jared Spurgeon",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 333
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Joel Eriksson Ek",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 313
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jonas Brodin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 327
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kirill Kaprizov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 319
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Marco Rossi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 321
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mats Zuccarello",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 312
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matt Boldy",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 312
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Hartman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 315
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vladimir Tarasenko",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 323
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zeev Buium",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MIN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 328
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "BOS",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Casey Mittelstadt",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 35
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Charlie McAvoy",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 43
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "David Pastrnak",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 36
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Elias Lindholm",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 33
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Hampus Lindholm",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 33
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mason Lohrei",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 42
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Morgan Geekie",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 28
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nikita Zadorov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 45
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pavel Zacha",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 38
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tanner Jeannot",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 29
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Viktor Arvidsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BOS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 25
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "NJD",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Connor Brown",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 360
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dawson Mercer",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 373
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dougie Hamilton",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 378
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Evgenii Dadonov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 362
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jack Hughes",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 368
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jesper Bratt",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 359
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Luke Hughes",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 364
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nico Hischier",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 367
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ondrej Palat",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 374
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Stefan Noesen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 366
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Timo Meier",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NJD",
+          "last_seen_teamName": ""
+        },
+        "master_id": 372
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "OTT",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brady Tkachuk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 471
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Claude Giroux",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 464
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "David Perron",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 468
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Drake Batherson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 460
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dylan Cozens",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 462
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Fabian Zetterlund",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 472
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake Sanderson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 460
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jordan Spence",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 478
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ridly Greig",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 465
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Shane Pinto",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 469
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Thomas Chabot",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 473
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tim St\u00fctzle",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "OTT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 470
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "VGK",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brayden McNabb",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 719
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ivan Barbashev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 701
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jack Eichel",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 606
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jeremy Lauzon",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 718
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mark Stone",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 714
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mitch Marner",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 709
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Noah Hanifin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 715
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pavel Dorofeyev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 702
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Shea Theodore",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 720
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tomas Hertl",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 704
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "William Karlsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 707
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zach Whitecloud",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VGK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 721
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "FLA",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Aaron Ekblad",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 279
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Aleksander Barkov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 263
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anton Lundell",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 269
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brad Marchand",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 271
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Carter Verhaeghe",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 276
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Eetu Luostarinen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 270
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Evan Rodrigues",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 273
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Gustav Forsling",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 280
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matthew Tkachuk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 266
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sam Bennett",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 264
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sam Reinhart",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 264
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Seth Jones",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "FLA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 281
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "NSH",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brady Skjei",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 392
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Erik Haula",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 389
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Fedor Svechkov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 397
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Filip Forsberg",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 388
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jonathan Marchessault",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 391
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Luke Evangelista",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 387
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Michael Bunting",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 386
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Roman Josi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 402
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan O'Reilly",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 394
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Steven Stamkos",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 396
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zachary L'Heureux",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 703
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "DAL",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Esa Lindell",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 208
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jamie Benn",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 191
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jason Robertson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 202
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Lian Bichsel",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 205
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matt Duchene",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 195
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mavrik Bourque",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 193
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mikko Rantanen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 201
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Miro Heiskanen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 201
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Roope Hintz",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 198
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Thomas Harley",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 206
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tyler Seguin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 203
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Wyatt Johnston",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DAL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 200
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "NYR",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Fox",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 438
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alexis Lafreni\u00e8re",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 440
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Artemi Panarin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 442
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Gabriel Perreault",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 442
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "J.T. Miller",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 441
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mika Zibanejad",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 448
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vincent Trocheck",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 447
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vladislav Gavrikov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 451
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Will Borgen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 449
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Will Cuylle",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 437
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "CBJ",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Fantilli",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 100
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Boone Jenner",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 101
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Charlie Coyle",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 99
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Denton Mateychuk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 113
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dmitri Voronkov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 108
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ivan Provorov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 114
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kent Johnson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 102
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kirill Marchenko",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 104
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sean Monahan",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 105
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Yegor Chinakhov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 98
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zach Werenski",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CBJ",
+          "last_seen_teamName": ""
+        },
+        "master_id": 116
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "WPG",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Lowry",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 737
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cole Perfetti",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 729
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Gabriel Vilardi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 738
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jonathan Toews",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 737
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Josh Morrissey",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 742
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kyle Connor",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 726
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mark Scheifele",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 736
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Neal Pionk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 743
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nino Niederreiter",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 732
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vladislav Namestnikov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WPG",
+          "last_seen_teamName": ""
+        },
+        "master_id": 731
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "PIT",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Bryan Rust",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 517
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Erik Karlsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 523
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Evgeni Malkin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 513
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kris Letang",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 524
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Philip Tomasino",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 518
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Rickard Rakell",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 516
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Rutger McGroarty",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 507
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sidney Crosby",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 507
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tommy Novak",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 515
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ville Koivunen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PIT",
+          "last_seen_teamName": ""
+        },
+        "master_id": 513
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "BUF",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Tuch",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 60
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Bowen Byram",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 63
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jack Quinn",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 58
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jason Zucker",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 61
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jiri Kulich",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 54
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Josh Doan",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 50
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Josh Norris",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 50
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Michael Kesselring",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 51
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Owen Power",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 67
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Rasmus Dahlin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 64
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan McLeod",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 56
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tage Thompson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 59
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zach Benson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "BUF",
+          "last_seen_teamName": ""
+        },
+        "master_id": 48
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "VAN",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brock Boeser",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 678
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Conor Garland",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 681
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Elias Pettersson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 687
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Evander Kane",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 683
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Filip Chytil",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 679
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Filip Hronek",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 679
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake DeBrusk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 680
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kiefer Sherwood",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 690
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Quinn Hughes",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 693
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "WSH",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Ovechkin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 757
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Aliaksei Protas",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 758
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anthony Beauvillier",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 749
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Connor McMichael",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 755
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dylan Strome",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 760
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jakob Chychrun",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 764
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "John Carlson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 762
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matt Roy",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 767
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pierre-Luc Dubois",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 751
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Rasmus Sandin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 768
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Leonard",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 754
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tom Wilson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "WSH",
+          "last_seen_teamName": ""
+        },
+        "master_id": 761
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "SJS",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Gaudette",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 558
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Wennberg",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 567
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dmitry Orlov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 576
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jeff Skinner",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 564
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "John Klingberg",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 572
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Macklin Celebrini",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 555
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mario Ferraro",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 570
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Philipp Kurashev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 561
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Timothy Liljegren",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 574
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tyler Toffoli",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 566
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Will Smith",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 565
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "William Eklund",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SJS",
+          "last_seen_teamName": ""
+        },
+        "master_id": 557
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "UTA",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Barrett Hayton",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 657
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Clayton Keller",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 658
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dylan Guenther",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 656
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "JJ Peterka",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 662
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jack McBain",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 653
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Logan Cooley",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 654
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mikhail Sergachev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 653
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nick Schmaltz",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 663
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sean Durzi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "UTA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 652
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "LAK",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adrian Kempe",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 294
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Laferriere",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 297
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Andrei Kuzmenko",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 296
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anze Kopitar",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 295
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brandt Clarke",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 304
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Drew Doughty",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 305
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kevin Fiala",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 291
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Phillip Danault",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 290
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Quinton Byfield",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 289
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Trevor Moore",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 299
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Warren Foegele",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "LAK",
+          "last_seen_teamName": ""
+        },
+        "master_id": 292
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "CAR",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alexander Nikishin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 90
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Andrei Svechnikov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 85
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jaccob Slavin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 74
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jackson Blake",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 74
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jesperi Kotkaniemi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 80
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "K'Andre Miller",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 89
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Logan Stankoven",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 84
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nikolaj Ehlers",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 76
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sebastian Aho",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 73
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Seth Jarvis",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 79
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Shayne Gostisbehere",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 87
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Taylor Hall",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CAR",
+          "last_seen_teamName": ""
+        },
+        "master_id": 77
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "PHI",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Bobby Brink",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 483
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cam York",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 501
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jamie Drysdale",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 496
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matvei Michkov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 493
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Noah Cates",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 484
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Owen Tippett",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 494
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sean Couturier",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 485
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Travis Konecny",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 491
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Travis Sanheim",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 491
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Trevor Zegras",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 495
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tyson Foerster",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "PHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 488
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "DET",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex DeBrincat",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 219
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dylan Larkin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 223
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "J.T. Compher",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 217
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "James van Riemsdyk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 227
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Lucas Raymond",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 225
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Marco Kasper",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 222
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Moritz Seider",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 234
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Patrick Kane",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 221
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Simon Edvinsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "DET",
+          "last_seen_teamName": ""
+        },
+        "master_id": 230
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "STL",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brayden Schenn",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 585
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cam Fowler",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 595
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Colton Parayko",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 598
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Dylan Holloway",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 581
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jake Neighbours",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 584
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jimmy Snuggerud",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 586
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jordan Kyrou",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 583
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Justin Faulk",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 594
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pavel Buchnevich",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 580
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Philip Broberg",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 593
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pius Suter",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 588
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Robert Thomas",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "STL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 590
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "NYI",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alexander Romanov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 429
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anders Lee",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 417
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Anthony Duclair",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 412
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Bo Horvat",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 416
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jean-Gabriel Pageau",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 419
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jonathan Drouin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 411
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kyle Palmieri",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 418
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mathew Barzal",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 409
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matthew Schaefer",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 409
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Maxim Shabanov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 421
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Pulock",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 428
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Simon Holmstrom",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 415
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tony DeAngelo",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 425
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "CGY",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Blake Coleman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 120
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Connor Zary",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 132
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Joel Farabee",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 122
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jonathan Huberdeau",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 125
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mackenzie Weegar",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 140
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matt Coronato",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 121
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mikael Backlund",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 119
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Morgan Frost",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 123
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nazem Kadri",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 126
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Rasmus Andersson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 133
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Yegor Sharangovich",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 131
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zayne Parekh",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CGY",
+          "last_seen_teamName": ""
+        },
+        "master_id": 139
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "MTL",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brendan Gallagher",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 343
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cole Caufield",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 339
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ivan Demidov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 341
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Juraj Slafkovsky",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 347
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kaiden Guhle",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 352
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kirby Dach",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 340
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Lane Hutson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 353
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mike Matheson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 354
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Nick Suzuki",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 348
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Noah Dobson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 351
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Patrik Laine",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 345
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Zack Bolduc",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "MTL",
+          "last_seen_teamName": ""
+        },
+        "master_id": 338
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "CHI",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Vlasic",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 164
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Andre Burakovsky",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 146
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Artyom Levshunov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 161
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Connor Bedard",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 144
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Frank Nazar",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 154
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ilya Mikheyev",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 153
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Donato",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 149
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Sam Rinzel",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 152
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Teuvo Teravainen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 157
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Tyler Bertuzzi",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "CHI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 145
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "SEA",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Adam Larsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 548
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Brandon Montour",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 543
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Chandler Stephenson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 541
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Eeli Tolvanen",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 542
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jaden Schwartz",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 540
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jared McCann",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 538
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jordan Eberle",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 532
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Kaapo Kakko",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 535
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mason Marchment",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 537
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Matty Beniers",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 530
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Shane Wright",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 544
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Vince Dunn",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "SEA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 545
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "ANA",
+    "players": [
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Alex Killorn",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 7
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Chris Kreider",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 8
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Cutter Gauthier",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 3
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Frank Vatrano",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 15
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jackson LaCombe",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 18
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Jacob Trouba",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 20
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Leo Carlsson",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 1
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mason McTavish",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 9
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Mikael Granlund",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 4
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Olen Zellweger",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 21
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Pavel Mintyukov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 19
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Radko Gudas",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 16
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Ryan Strome",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 11
+      },
+      {
+        "source_id": "ag_pts_xlsx",
+        "name": "Troy Terry",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "ANA",
+          "last_seen_teamName": ""
+        },
+        "master_id": 14
+      }
+    ]
+  }
+]

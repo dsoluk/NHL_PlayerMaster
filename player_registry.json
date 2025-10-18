@@ -1495,7 +1495,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 10,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "CGY",
       "last_seen_teamName": ""
     }
   },
@@ -2287,7 +2287,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 14,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "DAL",
       "last_seen_teamName": ""
     }
   },
@@ -2887,7 +2887,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 18,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "EDM",
       "last_seen_teamName": ""
     }
   },
@@ -2923,7 +2923,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 20,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "EDM",
       "last_seen_teamName": ""
     }
   },
@@ -3151,7 +3151,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 16,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "FLA",
       "last_seen_teamName": ""
     }
   },
@@ -4519,7 +4519,7 @@
     "attributes": {
       "position": "D",
       "jersey_number": 5,
-      "last_seen_teamAbbrev": "NJD",
+      "last_seen_teamAbbrev": "TOR",
       "last_seen_teamName": ""
     }
   },
@@ -5083,7 +5083,7 @@
     "attributes": {
       "position": "D",
       "jersey_number": 34,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "NYI",
       "last_seen_teamName": ""
     }
   },
@@ -6415,7 +6415,7 @@
     "attributes": {
       "position": "F",
       "jersey_number": 84,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "SEA",
       "last_seen_teamName": ""
     }
   },
@@ -6601,18 +6601,6 @@
   },
   "551": {
     "source_ids": {
-      "nhl_api": 8477986
-    },
-    "canonical_name": "brandon montour",
-    "attributes": {
-      "position": "D",
-      "jersey_number": 62,
-      "last_seen_teamAbbrev": "SEA",
-      "last_seen_teamName": ""
-    }
-  },
-  "552": {
-    "source_ids": {
       "nhl_api": 8476467
     },
     "canonical_name": "jamie oleksiak",
@@ -6623,7 +6611,7 @@
       "last_seen_teamName": ""
     }
   },
-  "553": {
+  "552": {
     "source_ids": {
       "nhl_api": 8478916
     },
@@ -6635,7 +6623,7 @@
       "last_seen_teamName": ""
     }
   },
-  "554": {
+  "553": {
     "source_ids": {
       "nhl_api": 8475831
     },
@@ -6647,7 +6635,7 @@
       "last_seen_teamName": ""
     }
   },
-  "555": {
+  "554": {
     "source_ids": {
       "nhl_api": 8476899
     },
@@ -6659,7 +6647,7 @@
       "last_seen_teamName": ""
     }
   },
-  "556": {
+  "555": {
     "source_ids": {
       "nhl_api": 8484801
     },
@@ -6671,7 +6659,7 @@
       "last_seen_teamName": ""
     }
   },
-  "557": {
+  "556": {
     "source_ids": {
       "nhl_api": 8480848
     },
@@ -6683,7 +6671,7 @@
       "last_seen_teamName": ""
     }
   },
-  "558": {
+  "557": {
     "source_ids": {
       "nhl_api": 8482667
     },
@@ -6695,7 +6683,7 @@
       "last_seen_teamName": ""
     }
   },
-  "559": {
+  "558": {
     "source_ids": {
       "nhl_api": 8478874
     },
@@ -6707,7 +6695,7 @@
       "last_seen_teamName": ""
     }
   },
-  "560": {
+  "559": {
     "source_ids": {
       "nhl_api": 8476624
     },
@@ -6719,7 +6707,7 @@
       "last_seen_teamName": ""
     }
   },
-  "561": {
+  "560": {
     "source_ids": {
       "nhl_api": 8484911
     },
@@ -6731,7 +6719,7 @@
       "last_seen_teamName": ""
     }
   },
-  "562": {
+  "561": {
     "source_ids": {
       "nhl_api": 8480798
     },
@@ -6743,7 +6731,7 @@
       "last_seen_teamName": ""
     }
   },
-  "563": {
+  "562": {
     "source_ids": {
       "nhl_api": 8485402
     },
@@ -6755,7 +6743,7 @@
       "last_seen_teamName": ""
     }
   },
-  "564": {
+  "563": {
     "source_ids": {
       "nhl_api": 8471817
     },
@@ -6767,7 +6755,7 @@
       "last_seen_teamName": ""
     }
   },
-  "565": {
+  "564": {
     "source_ids": {
       "nhl_api": 8475784
     },
@@ -6779,7 +6767,7 @@
       "last_seen_teamName": ""
     }
   },
-  "566": {
+  "565": {
     "source_ids": {
       "nhl_api": 8484227
     },
@@ -6791,7 +6779,7 @@
       "last_seen_teamName": ""
     }
   },
-  "567": {
+  "566": {
     "source_ids": {
       "nhl_api": 8475726
     },
@@ -6803,7 +6791,7 @@
       "last_seen_teamName": ""
     }
   },
-  "568": {
+  "567": {
     "source_ids": {
       "nhl_api": 8477505
     },
@@ -6815,7 +6803,7 @@
       "last_seen_teamName": ""
     }
   },
-  "569": {
+  "568": {
     "source_ids": {
       "nhl_api": 8479576
     },
@@ -6827,7 +6815,7 @@
       "last_seen_teamName": ""
     }
   },
-  "570": {
+  "569": {
     "source_ids": {
       "nhl_api": 8484806
     },
@@ -6839,7 +6827,7 @@
       "last_seen_teamName": ""
     }
   },
-  "571": {
+  "570": {
     "source_ids": {
       "nhl_api": 8479983
     },
@@ -6851,7 +6839,7 @@
       "last_seen_teamName": ""
     }
   },
-  "572": {
+  "571": {
     "source_ids": {
       "nhl_api": 8482861
     },
@@ -6863,7 +6851,7 @@
       "last_seen_teamName": ""
     }
   },
-  "573": {
+  "572": {
     "source_ids": {
       "nhl_api": 8475906
     },
@@ -6875,7 +6863,7 @@
       "last_seen_teamName": ""
     }
   },
-  "574": {
+  "573": {
     "source_ids": {
       "nhl_api": 8475181
     },
@@ -6887,7 +6875,7 @@
       "last_seen_teamName": ""
     }
   },
-  "575": {
+  "574": {
     "source_ids": {
       "nhl_api": 8480043
     },
@@ -6899,7 +6887,7 @@
       "last_seen_teamName": ""
     }
   },
-  "576": {
+  "575": {
     "source_ids": {
       "nhl_api": 8482166
     },
@@ -6911,7 +6899,7 @@
       "last_seen_teamName": ""
     }
   },
-  "577": {
+  "576": {
     "source_ids": {
       "nhl_api": 8475200
     },
@@ -6923,7 +6911,7 @@
       "last_seen_teamName": ""
     }
   },
-  "578": {
+  "577": {
     "source_ids": {
       "nhl_api": 8482137
     },
@@ -6935,7 +6923,7 @@
       "last_seen_teamName": ""
     }
   },
-  "579": {
+  "578": {
     "source_ids": {
       "nhl_api": 8477968
     },
@@ -6947,7 +6935,7 @@
       "last_seen_teamName": ""
     }
   },
-  "580": {
+  "579": {
     "source_ids": {
       "nhl_api": 8475760
     },
@@ -6959,7 +6947,7 @@
       "last_seen_teamName": ""
     }
   },
-  "581": {
+  "580": {
     "source_ids": {
       "nhl_api": 8477402
     },
@@ -6971,7 +6959,7 @@
       "last_seen_teamName": ""
     }
   },
-  "582": {
+  "581": {
     "source_ids": {
       "nhl_api": 8482077
     },
@@ -6983,7 +6971,7 @@
       "last_seen_teamName": ""
     }
   },
-  "583": {
+  "582": {
     "source_ids": {
       "nhl_api": 8478472
     },
@@ -6995,7 +6983,7 @@
       "last_seen_teamName": ""
     }
   },
-  "584": {
+  "583": {
     "source_ids": {
       "nhl_api": 8479385
     },
@@ -7007,7 +6995,7 @@
       "last_seen_teamName": ""
     }
   },
-  "585": {
+  "584": {
     "source_ids": {
       "nhl_api": 8482089
     },
@@ -7019,7 +7007,7 @@
       "last_seen_teamName": ""
     }
   },
-  "586": {
+  "585": {
     "source_ids": {
       "nhl_api": 8475170
     },
@@ -7031,7 +7019,7 @@
       "last_seen_teamName": ""
     }
   },
-  "587": {
+  "586": {
     "source_ids": {
       "nhl_api": 8483516
     },
@@ -7043,7 +7031,7 @@
       "last_seen_teamName": ""
     }
   },
-  "588": {
+  "587": {
     "source_ids": {
       "nhl_api": 8476897
     },
@@ -7055,7 +7043,7 @@
       "last_seen_teamName": ""
     }
   },
-  "589": {
+  "588": {
     "source_ids": {
       "nhl_api": 8480459
     },
@@ -7067,7 +7055,7 @@
       "last_seen_teamName": ""
     }
   },
-  "590": {
+  "589": {
     "source_ids": {
       "nhl_api": 8480074
     },
@@ -7079,7 +7067,7 @@
       "last_seen_teamName": ""
     }
   },
-  "591": {
+  "590": {
     "source_ids": {
       "nhl_api": 8480023
     },
@@ -7091,7 +7079,7 @@
       "last_seen_teamName": ""
     }
   },
-  "592": {
+  "591": {
     "source_ids": {
       "nhl_api": 8480281
     },
@@ -7103,7 +7091,7 @@
       "last_seen_teamName": ""
     }
   },
-  "593": {
+  "592": {
     "source_ids": {
       "nhl_api": 8477573
     },
@@ -7115,7 +7103,7 @@
       "last_seen_teamName": ""
     }
   },
-  "594": {
+  "593": {
     "source_ids": {
       "nhl_api": 8481598
     },
@@ -7127,7 +7115,7 @@
       "last_seen_teamName": ""
     }
   },
-  "595": {
+  "594": {
     "source_ids": {
       "nhl_api": 8475753
     },
@@ -7139,7 +7127,7 @@
       "last_seen_teamName": ""
     }
   },
-  "596": {
+  "595": {
     "source_ids": {
       "nhl_api": 8475764
     },
@@ -7151,7 +7139,7 @@
       "last_seen_teamName": ""
     }
   },
-  "597": {
+  "596": {
     "source_ids": {
       "nhl_api": 8482516
     },
@@ -7163,7 +7151,7 @@
       "last_seen_teamName": ""
     }
   },
-  "598": {
+  "597": {
     "source_ids": {
       "nhl_api": 8482733
     },
@@ -7175,7 +7163,7 @@
       "last_seen_teamName": ""
     }
   },
-  "599": {
+  "598": {
     "source_ids": {
       "nhl_api": 8476892
     },
@@ -7187,7 +7175,7 @@
       "last_seen_teamName": ""
     }
   },
-  "600": {
+  "599": {
     "source_ids": {
       "nhl_api": 8481006
     },
@@ -7199,7 +7187,7 @@
       "last_seen_teamName": ""
     }
   },
-  "601": {
+  "600": {
     "source_ids": {
       "nhl_api": 8476412
     },
@@ -7211,7 +7199,7 @@
       "last_seen_teamName": ""
     }
   },
-  "602": {
+  "601": {
     "source_ids": {
       "nhl_api": 8480981
     },
@@ -7223,7 +7211,7 @@
       "last_seen_teamName": ""
     }
   },
-  "603": {
+  "602": {
     "source_ids": {
       "nhl_api": 8477416
     },
@@ -7235,7 +7223,7 @@
       "last_seen_teamName": ""
     }
   },
-  "604": {
+  "603": {
     "source_ids": {
       "nhl_api": 8482070
     },
@@ -7247,7 +7235,7 @@
       "last_seen_teamName": ""
     }
   },
-  "605": {
+  "604": {
     "source_ids": {
       "nhl_api": 8478519
     },
@@ -7259,7 +7247,7 @@
       "last_seen_teamName": ""
     }
   },
-  "606": {
+  "605": {
     "source_ids": {
       "nhl_api": 8480876
     },
@@ -7271,7 +7259,7 @@
       "last_seen_teamName": ""
     }
   },
-  "607": {
+  "606": {
     "source_ids": {
       "nhl_api": 8482090
     },
@@ -7283,7 +7271,7 @@
       "last_seen_teamName": ""
     }
   },
-  "608": {
+  "607": {
     "source_ids": {
       "nhl_api": 8483447
     },
@@ -7295,7 +7283,7 @@
       "last_seen_teamName": ""
     }
   },
-  "609": {
+  "608": {
     "source_ids": {
       "nhl_api": 8476878
     },
@@ -7307,7 +7295,7 @@
       "last_seen_teamName": ""
     }
   },
-  "610": {
+  "609": {
     "source_ids": {
       "nhl_api": 8482201
     },
@@ -7319,7 +7307,7 @@
       "last_seen_teamName": ""
     }
   },
-  "611": {
+  "610": {
     "source_ids": {
       "nhl_api": 8476826
     },
@@ -7331,7 +7319,7 @@
       "last_seen_teamName": ""
     }
   },
-  "612": {
+  "611": {
     "source_ids": {
       "nhl_api": 8477404
     },
@@ -7343,7 +7331,7 @@
       "last_seen_teamName": ""
     }
   },
-  "613": {
+  "612": {
     "source_ids": {
       "nhl_api": 8479542
     },
@@ -7355,7 +7343,7 @@
       "last_seen_teamName": ""
     }
   },
-  "614": {
+  "613": {
     "source_ids": {
       "nhl_api": 8480995
     },
@@ -7367,7 +7355,7 @@
       "last_seen_teamName": ""
     }
   },
-  "615": {
+  "614": {
     "source_ids": {
       "nhl_api": 8476453
     },
@@ -7379,7 +7367,7 @@
       "last_seen_teamName": ""
     }
   },
-  "616": {
+  "615": {
     "source_ids": {
       "nhl_api": 8477426
     },
@@ -7387,11 +7375,11 @@
     "attributes": {
       "position": "F",
       "jersey_number": 20,
-      "last_seen_teamAbbrev": "",
+      "last_seen_teamAbbrev": "TBL",
       "last_seen_teamName": ""
     }
   },
-  "617": {
+  "616": {
     "source_ids": {
       "nhl_api": 8478010
     },
@@ -7403,7 +7391,7 @@
       "last_seen_teamName": ""
     }
   },
-  "618": {
+  "617": {
     "source_ids": {
       "nhl_api": 8477149
     },
@@ -7415,7 +7403,7 @@
       "last_seen_teamName": ""
     }
   },
-  "619": {
+  "618": {
     "source_ids": {
       "nhl_api": 8478416
     },
@@ -7427,7 +7415,7 @@
       "last_seen_teamName": ""
     }
   },
-  "620": {
+  "619": {
     "source_ids": {
       "nhl_api": 8481719
     },
@@ -7439,7 +7427,7 @@
       "last_seen_teamName": ""
     }
   },
-  "621": {
+  "620": {
     "source_ids": {
       "nhl_api": 8475167
     },
@@ -7451,7 +7439,7 @@
       "last_seen_teamName": ""
     }
   },
-  "622": {
+  "621": {
     "source_ids": {
       "nhl_api": 8482929
     },
@@ -7463,7 +7451,7 @@
       "last_seen_teamName": ""
     }
   },
-  "623": {
+  "622": {
     "source_ids": {
       "nhl_api": 8474151
     },
@@ -7475,7 +7463,7 @@
       "last_seen_teamName": ""
     }
   },
-  "624": {
+  "623": {
     "source_ids": {
       "nhl_api": 8482655
     },
@@ -7487,7 +7475,7 @@
       "last_seen_teamName": ""
     }
   },
-  "625": {
+  "624": {
     "source_ids": {
       "nhl_api": 8478178
     },
@@ -7499,7 +7487,7 @@
       "last_seen_teamName": ""
     }
   },
-  "626": {
+  "625": {
     "source_ids": {
       "nhl_api": 8477463
     },
@@ -7511,7 +7499,7 @@
       "last_seen_teamName": ""
     }
   },
-  "627": {
+  "626": {
     "source_ids": {
       "nhl_api": 8477992
     },
@@ -7523,7 +7511,7 @@
       "last_seen_teamName": ""
     }
   },
-  "628": {
+  "627": {
     "source_ids": {
       "nhl_api": 8476883
     },
@@ -7535,7 +7523,7 @@
       "last_seen_teamName": ""
     }
   },
-  "629": {
+  "628": {
     "source_ids": {
       "nhl_api": 8478104
     },
@@ -7547,7 +7535,7 @@
       "last_seen_teamName": ""
     }
   },
-  "630": {
+  "629": {
     "source_ids": {
       "nhl_api": 8484158
     },
@@ -7559,7 +7547,7 @@
       "last_seen_teamName": ""
     }
   },
-  "631": {
+  "630": {
     "source_ids": {
       "nhl_api": 8477503
     },
@@ -7571,7 +7559,7 @@
       "last_seen_teamName": ""
     }
   },
-  "632": {
+  "631": {
     "source_ids": {
       "nhl_api": 8475714
     },
@@ -7583,7 +7571,7 @@
       "last_seen_teamName": ""
     }
   },
-  "633": {
+  "632": {
     "source_ids": {
       "nhl_api": 8478057
     },
@@ -7595,7 +7583,7 @@
       "last_seen_teamName": ""
     }
   },
-  "634": {
+  "633": {
     "source_ids": {
       "nhl_api": 8482720
     },
@@ -7607,7 +7595,7 @@
       "last_seen_teamName": ""
     }
   },
-  "635": {
+  "634": {
     "source_ids": {
       "nhl_api": 8476872
     },
@@ -7619,7 +7607,7 @@
       "last_seen_teamName": ""
     }
   },
-  "636": {
+  "635": {
     "source_ids": {
       "nhl_api": 8478904
     },
@@ -7631,7 +7619,7 @@
       "last_seen_teamName": ""
     }
   },
-  "637": {
+  "636": {
     "source_ids": {
       "nhl_api": 8481711
     },
@@ -7643,7 +7631,7 @@
       "last_seen_teamName": ""
     }
   },
-  "638": {
+  "637": {
     "source_ids": {
       "nhl_api": 8479318
     },
@@ -7655,7 +7643,7 @@
       "last_seen_teamName": ""
     }
   },
-  "639": {
+  "638": {
     "source_ids": {
       "nhl_api": 8482259
     },
@@ -7667,7 +7655,7 @@
       "last_seen_teamName": ""
     }
   },
-  "640": {
+  "639": {
     "source_ids": {
       "nhl_api": 8477939
     },
@@ -7679,7 +7667,7 @@
       "last_seen_teamName": ""
     }
   },
-  "641": {
+  "640": {
     "source_ids": {
       "nhl_api": 8481582
     },
@@ -7691,7 +7679,7 @@
       "last_seen_teamName": ""
     }
   },
-  "642": {
+  "641": {
     "source_ids": {
       "nhl_api": 8478462
     },
@@ -7703,7 +7691,7 @@
       "last_seen_teamName": ""
     }
   },
-  "643": {
+  "642": {
     "source_ids": {
       "nhl_api": 8475166
     },
@@ -7715,7 +7703,7 @@
       "last_seen_teamName": ""
     }
   },
-  "644": {
+  "643": {
     "source_ids": {
       "nhl_api": 8481122
     },
@@ -7727,7 +7715,7 @@
       "last_seen_teamName": ""
     }
   },
-  "645": {
+  "644": {
     "source_ids": {
       "nhl_api": 8478443
     },
@@ -7735,11 +7723,11 @@
     "attributes": {
       "position": "D",
       "jersey_number": 25,
-      "last_seen_teamAbbrev": "TOR",
+      "last_seen_teamAbbrev": "SEA",
       "last_seen_teamName": ""
     }
   },
-  "646": {
+  "645": {
     "source_ids": {
       "nhl_api": 8475171
     },
@@ -7751,7 +7739,7 @@
       "last_seen_teamName": ""
     }
   },
-  "647": {
+  "646": {
     "source_ids": {
       "nhl_api": 8476931
     },
@@ -7763,7 +7751,7 @@
       "last_seen_teamName": ""
     }
   },
-  "648": {
+  "647": {
     "source_ids": {
       "nhl_api": 8479026
     },
@@ -7775,7 +7763,7 @@
       "last_seen_teamName": ""
     }
   },
-  "649": {
+  "648": {
     "source_ids": {
       "nhl_api": 8476853
     },
@@ -7787,7 +7775,7 @@
       "last_seen_teamName": ""
     }
   },
-  "650": {
+  "649": {
     "source_ids": {
       "nhl_api": 8475690
     },
@@ -7799,7 +7787,7 @@
       "last_seen_teamName": ""
     }
   },
-  "651": {
+  "650": {
     "source_ids": {
       "nhl_api": 8480051
     },
@@ -7811,7 +7799,7 @@
       "last_seen_teamName": ""
     }
   },
-  "652": {
+  "651": {
     "source_ids": {
       "nhl_api": 8476932
     },
@@ -7823,7 +7811,7 @@
       "last_seen_teamName": ""
     }
   },
-  "653": {
+  "652": {
     "source_ids": {
       "nhl_api": 8475461
     },
@@ -7835,7 +7823,7 @@
       "last_seen_teamName": ""
     }
   },
-  "654": {
+  "653": {
     "source_ids": {
       "nhl_api": 8479619
     },
@@ -7847,7 +7835,7 @@
       "last_seen_teamName": ""
     }
   },
-  "655": {
+  "654": {
     "source_ids": {
       "nhl_api": 8483431
     },
@@ -7859,7 +7847,7 @@
       "last_seen_teamName": ""
     }
   },
-  "656": {
+  "655": {
     "source_ids": {
       "nhl_api": 8478474
     },
@@ -7871,7 +7859,7 @@
       "last_seen_teamName": ""
     }
   },
-  "657": {
+  "656": {
     "source_ids": {
       "nhl_api": 8482699
     },
@@ -7883,7 +7871,7 @@
       "last_seen_teamName": ""
     }
   },
-  "658": {
+  "657": {
     "source_ids": {
       "nhl_api": 8480849
     },
@@ -7895,7 +7883,7 @@
       "last_seen_teamName": ""
     }
   },
-  "659": {
+  "658": {
     "source_ids": {
       "nhl_api": 8479343
     },
@@ -7907,7 +7895,7 @@
       "last_seen_teamName": ""
     }
   },
-  "660": {
+  "659": {
     "source_ids": {
       "nhl_api": 8477021
     },
@@ -7919,7 +7907,7 @@
       "last_seen_teamName": ""
     }
   },
-  "661": {
+  "660": {
     "source_ids": {
       "nhl_api": 8480855
     },
@@ -7931,7 +7919,7 @@
       "last_seen_teamName": ""
     }
   },
-  "662": {
+  "661": {
     "source_ids": {
       "nhl_api": 8477070
     },
@@ -7943,7 +7931,7 @@
       "last_seen_teamName": ""
     }
   },
-  "663": {
+  "662": {
     "source_ids": {
       "nhl_api": 8482175
     },
@@ -7955,7 +7943,7 @@
       "last_seen_teamName": ""
     }
   },
-  "664": {
+  "663": {
     "source_ids": {
       "nhl_api": 8477951
     },
@@ -7967,7 +7955,7 @@
       "last_seen_teamName": ""
     }
   },
-  "665": {
+  "664": {
     "source_ids": {
       "nhl_api": 8478831
     },
@@ -7979,7 +7967,7 @@
       "last_seen_teamName": ""
     }
   },
-  "666": {
+  "665": {
     "source_ids": {
       "nhl_api": 8479293
     },
@@ -7991,7 +7979,7 @@
       "last_seen_teamName": ""
     }
   },
-  "667": {
+  "666": {
     "source_ids": {
       "nhl_api": 8479977
     },
@@ -8003,7 +7991,7 @@
       "last_seen_teamName": ""
     }
   },
-  "668": {
+  "667": {
     "source_ids": {
       "nhl_api": 8474013
     },
@@ -8015,7 +8003,7 @@
       "last_seen_teamName": ""
     }
   },
-  "669": {
+  "668": {
     "source_ids": {
       "nhl_api": 8480084
     },
@@ -8027,7 +8015,7 @@
       "last_seen_teamName": ""
     }
   },
-  "670": {
+  "669": {
     "source_ids": {
       "nhl_api": 8478507
     },
@@ -8039,7 +8027,7 @@
       "last_seen_teamName": ""
     }
   },
-  "671": {
+  "670": {
     "source_ids": {
       "nhl_api": 8476874
     },
@@ -8051,7 +8039,7 @@
       "last_seen_teamName": ""
     }
   },
-  "672": {
+  "671": {
     "source_ids": {
       "nhl_api": 8477220
     },
@@ -8063,7 +8051,7 @@
       "last_seen_teamName": ""
     }
   },
-  "673": {
+  "672": {
     "source_ids": {
       "nhl_api": 8479410
     },
@@ -8075,7 +8063,7 @@
       "last_seen_teamName": ""
     }
   },
-  "674": {
+  "673": {
     "source_ids": {
       "nhl_api": 8484386
     },
@@ -8087,7 +8075,7 @@
       "last_seen_teamName": ""
     }
   },
-  "675": {
+  "674": {
     "source_ids": {
       "nhl_api": 8477970
     },
@@ -8099,7 +8087,7 @@
       "last_seen_teamName": ""
     }
   },
-  "676": {
+  "675": {
     "source_ids": {
       "nhl_api": 8478872
     },
@@ -8111,7 +8099,7 @@
       "last_seen_teamName": ""
     }
   },
-  "677": {
+  "676": {
     "source_ids": {
       "nhl_api": 8483395
     },
@@ -8123,7 +8111,7 @@
       "last_seen_teamName": ""
     }
   },
-  "678": {
+  "677": {
     "source_ids": {
       "nhl_api": 8476927
     },
@@ -8135,7 +8123,7 @@
       "last_seen_teamName": ""
     }
   },
-  "679": {
+  "678": {
     "source_ids": {
       "nhl_api": 8478444
     },
@@ -8147,7 +8135,7 @@
       "last_seen_teamName": ""
     }
   },
-  "680": {
+  "679": {
     "source_ids": {
       "nhl_api": 8480078
     },
@@ -8159,7 +8147,7 @@
       "last_seen_teamName": ""
     }
   },
-  "681": {
+  "680": {
     "source_ids": {
       "nhl_api": 8478498
     },
@@ -8171,7 +8159,7 @@
       "last_seen_teamName": ""
     }
   },
-  "682": {
+  "681": {
     "source_ids": {
       "nhl_api": 8478856
     },
@@ -8183,7 +8171,7 @@
       "last_seen_teamName": ""
     }
   },
-  "683": {
+  "682": {
     "source_ids": {
       "nhl_api": 8481535
     },
@@ -8195,7 +8183,7 @@
       "last_seen_teamName": ""
     }
   },
-  "684": {
+  "683": {
     "source_ids": {
       "nhl_api": 8475169
     },
@@ -8207,7 +8195,7 @@
       "last_seen_teamName": ""
     }
   },
-  "685": {
+  "684": {
     "source_ids": {
       "nhl_api": 8481024
     },
@@ -8219,7 +8207,7 @@
       "last_seen_teamName": ""
     }
   },
-  "686": {
+  "685": {
     "source_ids": {
       "nhl_api": 8483476
     },
@@ -8231,7 +8219,7 @@
       "last_seen_teamName": ""
     }
   },
-  "687": {
+  "686": {
     "source_ids": {
       "nhl_api": 8482055
     },
@@ -8243,7 +8231,7 @@
       "last_seen_teamName": ""
     }
   },
-  "688": {
+  "687": {
     "source_ids": {
       "nhl_api": 8480012
     },
@@ -8255,7 +8243,7 @@
       "last_seen_teamName": ""
     }
   },
-  "689": {
+  "688": {
     "source_ids": {
       "nhl_api": 8482691
     },
@@ -8267,7 +8255,7 @@
       "last_seen_teamName": ""
     }
   },
-  "690": {
+  "689": {
     "source_ids": {
       "nhl_api": 8484136
     },
@@ -8279,7 +8267,7 @@
       "last_seen_teamName": ""
     }
   },
-  "691": {
+  "690": {
     "source_ids": {
       "nhl_api": 8480748
     },
@@ -8291,7 +8279,7 @@
       "last_seen_teamName": ""
     }
   },
-  "692": {
+  "691": {
     "source_ids": {
       "nhl_api": 8475762
     },
@@ -8303,7 +8291,7 @@
       "last_seen_teamName": ""
     }
   },
-  "693": {
+  "692": {
     "source_ids": {
       "nhl_api": 8479425
     },
@@ -8315,7 +8303,7 @@
       "last_seen_teamName": ""
     }
   },
-  "694": {
+  "693": {
     "source_ids": {
       "nhl_api": 8480800
     },
@@ -8327,7 +8315,7 @@
       "last_seen_teamName": ""
     }
   },
-  "695": {
+  "694": {
     "source_ids": {
       "nhl_api": 8480058
     },
@@ -8339,7 +8327,7 @@
       "last_seen_teamName": ""
     }
   },
-  "696": {
+  "695": {
     "source_ids": {
       "nhl_api": 8483768
     },
@@ -8351,7 +8339,7 @@
       "last_seen_teamName": ""
     }
   },
-  "697": {
+  "696": {
     "source_ids": {
       "nhl_api": 8474574
     },
@@ -8363,7 +8351,7 @@
       "last_seen_teamName": ""
     }
   },
-  "698": {
+  "697": {
     "source_ids": {
       "nhl_api": 8483678
     },
@@ -8375,7 +8363,7 @@
       "last_seen_teamName": ""
     }
   },
-  "699": {
+  "698": {
     "source_ids": {
       "nhl_api": 8477969
     },
@@ -8387,7 +8375,7 @@
       "last_seen_teamName": ""
     }
   },
-  "700": {
+  "699": {
     "source_ids": {
       "nhl_api": 8477967
     },
@@ -8399,7 +8387,7 @@
       "last_seen_teamName": ""
     }
   },
-  "701": {
+  "700": {
     "source_ids": {
       "nhl_api": 8480947
     },
@@ -8411,7 +8399,7 @@
       "last_seen_teamName": ""
     }
   },
-  "702": {
+  "701": {
     "source_ids": {
       "nhl_api": 8477964
     },
@@ -8423,7 +8411,7 @@
       "last_seen_teamName": ""
     }
   },
-  "703": {
+  "702": {
     "source_ids": {
       "nhl_api": 8481604
     },
@@ -8435,7 +8423,7 @@
       "last_seen_teamName": ""
     }
   },
-  "704": {
+  "703": {
     "source_ids": {
       "nhl_api": 8478403
     },
@@ -8447,7 +8435,7 @@
       "last_seen_teamName": ""
     }
   },
-  "705": {
+  "704": {
     "source_ids": {
       "nhl_api": 8476881
     },
@@ -8459,7 +8447,7 @@
       "last_seen_teamName": ""
     }
   },
-  "706": {
+  "705": {
     "source_ids": {
       "nhl_api": 8482125
     },
@@ -8471,7 +8459,7 @@
       "last_seen_teamName": ""
     }
   },
-  "707": {
+  "706": {
     "source_ids": {
       "nhl_api": 8479353
     },
@@ -8483,7 +8471,7 @@
       "last_seen_teamName": ""
     }
   },
-  "708": {
+  "707": {
     "source_ids": {
       "nhl_api": 8476448
     },
@@ -8495,7 +8483,7 @@
       "last_seen_teamName": ""
     }
   },
-  "709": {
+  "708": {
     "source_ids": {
       "nhl_api": 8478434
     },
@@ -8507,7 +8495,7 @@
       "last_seen_teamName": ""
     }
   },
-  "710": {
+  "709": {
     "source_ids": {
       "nhl_api": 8478483
     },
@@ -8519,7 +8507,7 @@
       "last_seen_teamName": ""
     }
   },
-  "711": {
+  "710": {
     "source_ids": {
       "nhl_api": 8481133
     },
@@ -8531,7 +8519,7 @@
       "last_seen_teamName": ""
     }
   },
-  "712": {
+  "711": {
     "source_ids": {
       "nhl_api": 8476438
     },
@@ -8543,7 +8531,7 @@
       "last_seen_teamName": ""
     }
   },
-  "713": {
+  "712": {
     "source_ids": {
       "nhl_api": 8476925
     },
@@ -8555,7 +8543,7 @@
       "last_seen_teamName": ""
     }
   },
-  "714": {
+  "713": {
     "source_ids": {
       "nhl_api": 8475191
     },
@@ -8567,7 +8555,7 @@
       "last_seen_teamName": ""
     }
   },
-  "715": {
+  "714": {
     "source_ids": {
       "nhl_api": 8475913
     },
@@ -8579,7 +8567,7 @@
       "last_seen_teamName": ""
     }
   },
-  "716": {
+  "715": {
     "source_ids": {
       "nhl_api": 8478396
     },
@@ -8591,7 +8579,7 @@
       "last_seen_teamName": ""
     }
   },
-  "717": {
+  "716": {
     "source_ids": {
       "nhl_api": 8477018
     },
@@ -8603,7 +8591,7 @@
       "last_seen_teamName": ""
     }
   },
-  "718": {
+  "717": {
     "source_ids": {
       "nhl_api": 8481527
     },
@@ -8615,7 +8603,7 @@
       "last_seen_teamName": ""
     }
   },
-  "719": {
+  "718": {
     "source_ids": {
       "nhl_api": 8478468
     },
@@ -8627,7 +8615,7 @@
       "last_seen_teamName": ""
     }
   },
-  "720": {
+  "719": {
     "source_ids": {
       "nhl_api": 8475188
     },
@@ -8639,7 +8627,7 @@
       "last_seen_teamName": ""
     }
   },
-  "721": {
+  "720": {
     "source_ids": {
       "nhl_api": 8477447
     },
@@ -8651,7 +8639,7 @@
       "last_seen_teamName": ""
     }
   },
-  "722": {
+  "721": {
     "source_ids": {
       "nhl_api": 8480727
     },
@@ -8663,7 +8651,7 @@
       "last_seen_teamName": ""
     }
   },
-  "723": {
+  "722": {
     "source_ids": {
       "nhl_api": 8478499
     },
@@ -8675,7 +8663,7 @@
       "last_seen_teamName": ""
     }
   },
-  "724": {
+  "723": {
     "source_ids": {
       "nhl_api": 8481033
     },
@@ -8687,7 +8675,7 @@
       "last_seen_teamName": ""
     }
   },
-  "725": {
+  "724": {
     "source_ids": {
       "nhl_api": 8480289
     },
@@ -8699,7 +8687,7 @@
       "last_seen_teamName": ""
     }
   },
-  "726": {
+  "725": {
     "source_ids": {
       "nhl_api": 8482787
     },
@@ -8711,7 +8699,7 @@
       "last_seen_teamName": ""
     }
   },
-  "727": {
+  "726": {
     "source_ids": {
       "nhl_api": 8478398
     },
@@ -8723,7 +8711,7 @@
       "last_seen_teamName": ""
     }
   },
-  "728": {
+  "727": {
     "source_ids": {
       "nhl_api": 8484135
     },
@@ -8735,7 +8723,7 @@
       "last_seen_teamName": ""
     }
   },
-  "729": {
+  "728": {
     "source_ids": {
       "nhl_api": 8480113
     },
@@ -8747,7 +8735,7 @@
       "last_seen_teamName": ""
     }
   },
-  "730": {
+  "729": {
     "source_ids": {
       "nhl_api": 8481043
     },
@@ -8759,7 +8747,7 @@
       "last_seen_teamName": ""
     }
   },
-  "731": {
+  "730": {
     "source_ids": {
       "nhl_api": 8483471
     },
@@ -8771,7 +8759,7 @@
       "last_seen_teamName": ""
     }
   },
-  "732": {
+  "731": {
     "source_ids": {
       "nhl_api": 8476480
     },
@@ -8783,7 +8771,7 @@
       "last_seen_teamName": ""
     }
   },
-  "733": {
+  "732": {
     "source_ids": {
       "nhl_api": 8475799
     },
@@ -8795,7 +8783,7 @@
       "last_seen_teamName": ""
     }
   },
-  "734": {
+  "733": {
     "source_ids": {
       "nhl_api": 8474679
     },
@@ -8807,7 +8795,7 @@
       "last_seen_teamName": ""
     }
   },
-  "735": {
+  "734": {
     "source_ids": {
       "nhl_api": 8476871
     },
@@ -8819,7 +8807,7 @@
       "last_seen_teamName": ""
     }
   },
-  "736": {
+  "735": {
     "source_ids": {
       "nhl_api": 8482149
     },
@@ -8831,7 +8819,7 @@
       "last_seen_teamName": ""
     }
   },
-  "737": {
+  "736": {
     "source_ids": {
       "nhl_api": 8476460
     },
@@ -8843,7 +8831,7 @@
       "last_seen_teamName": ""
     }
   },
-  "738": {
+  "737": {
     "source_ids": {
       "nhl_api": 8473604
     },
@@ -8855,7 +8843,7 @@
       "last_seen_teamName": ""
     }
   },
-  "739": {
+  "738": {
     "source_ids": {
       "nhl_api": 8480014
     },
@@ -8867,7 +8855,7 @@
       "last_seen_teamName": ""
     }
   },
-  "740": {
+  "739": {
     "source_ids": {
       "nhl_api": 8476331
     },
@@ -8879,7 +8867,7 @@
       "last_seen_teamName": ""
     }
   },
-  "741": {
+  "740": {
     "source_ids": {
       "nhl_api": 8477938
     },
@@ -8891,7 +8879,7 @@
       "last_seen_teamName": ""
     }
   },
-  "742": {
+  "741": {
     "source_ids": {
       "nhl_api": 8476525
     },
@@ -8903,7 +8891,7 @@
       "last_seen_teamName": ""
     }
   },
-  "743": {
+  "742": {
     "source_ids": {
       "nhl_api": 8477504
     },
@@ -8915,7 +8903,7 @@
       "last_seen_teamName": ""
     }
   },
-  "744": {
+  "743": {
     "source_ids": {
       "nhl_api": 8480145
     },
@@ -8927,7 +8915,7 @@
       "last_seen_teamName": ""
     }
   },
-  "745": {
+  "744": {
     "source_ids": {
       "nhl_api": 8480049
     },
@@ -8939,7 +8927,7 @@
       "last_seen_teamName": ""
     }
   },
-  "746": {
+  "745": {
     "source_ids": {
       "nhl_api": 8474568
     },
@@ -8951,7 +8939,7 @@
       "last_seen_teamName": ""
     }
   },
-  "747": {
+  "746": {
     "source_ids": {
       "nhl_api": 8479378
     },
@@ -8963,7 +8951,7 @@
       "last_seen_teamName": ""
     }
   },
-  "748": {
+  "747": {
     "source_ids": {
       "nhl_api": 8477480
     },
@@ -8975,7 +8963,7 @@
       "last_seen_teamName": ""
     }
   },
-  "749": {
+  "748": {
     "source_ids": {
       "nhl_api": 8476945
     },
@@ -8987,7 +8975,7 @@
       "last_seen_teamName": ""
     }
   },
-  "750": {
+  "749": {
     "source_ids": {
       "nhl_api": 8478463
     },
@@ -8999,7 +8987,7 @@
       "last_seen_teamName": ""
     }
   },
-  "751": {
+  "750": {
     "source_ids": {
       "nhl_api": 8475343
     },
@@ -9011,7 +8999,7 @@
       "last_seen_teamName": ""
     }
   },
-  "752": {
+  "751": {
     "source_ids": {
       "nhl_api": 8479400
     },
@@ -9023,7 +9011,7 @@
       "last_seen_teamName": ""
     }
   },
-  "753": {
+  "752": {
     "source_ids": {
       "nhl_api": 8479520
     },
@@ -9035,7 +9023,7 @@
       "last_seen_teamName": ""
     }
   },
-  "754": {
+  "753": {
     "source_ids": {
       "nhl_api": 8482148
     },
@@ -9047,7 +9035,7 @@
       "last_seen_teamName": ""
     }
   },
-  "755": {
+  "754": {
     "source_ids": {
       "nhl_api": 8484186
     },
@@ -9059,7 +9047,7 @@
       "last_seen_teamName": ""
     }
   },
-  "756": {
+  "755": {
     "source_ids": {
       "nhl_api": 8481580
     },
@@ -9071,7 +9059,7 @@
       "last_seen_teamName": ""
     }
   },
-  "757": {
+  "756": {
     "source_ids": {
       "nhl_api": 8477947
     },
@@ -9083,7 +9071,7 @@
       "last_seen_teamName": ""
     }
   },
-  "758": {
+  "757": {
     "source_ids": {
       "nhl_api": 8471214
     },
@@ -9095,7 +9083,7 @@
       "last_seen_teamName": ""
     }
   },
-  "759": {
+  "758": {
     "source_ids": {
       "nhl_api": 8481656
     },
@@ -9107,7 +9095,7 @@
       "last_seen_teamName": ""
     }
   },
-  "760": {
+  "759": {
     "source_ids": {
       "nhl_api": 8482088
     },
@@ -9119,7 +9107,7 @@
       "last_seen_teamName": ""
     }
   },
-  "761": {
+  "760": {
     "source_ids": {
       "nhl_api": 8478440
     },
@@ -9131,7 +9119,7 @@
       "last_seen_teamName": ""
     }
   },
-  "762": {
+  "761": {
     "source_ids": {
       "nhl_api": 8476880
     },
@@ -9143,7 +9131,7 @@
       "last_seen_teamName": ""
     }
   },
-  "763": {
+  "762": {
     "source_ids": {
       "nhl_api": 8474590
     },
@@ -9155,7 +9143,7 @@
       "last_seen_teamName": ""
     }
   },
-  "764": {
+  "763": {
     "source_ids": {
       "nhl_api": 8480990
     },
@@ -9167,7 +9155,7 @@
       "last_seen_teamName": ""
     }
   },
-  "765": {
+  "764": {
     "source_ids": {
       "nhl_api": 8479345
     },
@@ -9179,7 +9167,7 @@
       "last_seen_teamName": ""
     }
   },
-  "766": {
+  "765": {
     "source_ids": {
       "nhl_api": 8480796
     },
@@ -9191,7 +9179,7 @@
       "last_seen_teamName": ""
     }
   },
-  "767": {
+  "766": {
     "source_ids": {
       "nhl_api": 8475795
     },
@@ -9203,7 +9191,7 @@
       "last_seen_teamName": ""
     }
   },
-  "768": {
+  "767": {
     "source_ids": {
       "nhl_api": 8478911
     },
@@ -9215,7 +9203,7 @@
       "last_seen_teamName": ""
     }
   },
-  "769": {
+  "768": {
     "source_ids": {
       "nhl_api": 8480873
     },
@@ -9227,7 +9215,7 @@
       "last_seen_teamName": ""
     }
   },
-  "770": {
+  "769": {
     "source_ids": {
       "nhl_api": 8477845
     },
@@ -9239,7 +9227,7 @@
       "last_seen_teamName": ""
     }
   },
-  "771": {
+  "770": {
     "source_ids": {
       "nhl_api": 8479292
     },
@@ -9251,7 +9239,7 @@
       "last_seen_teamName": ""
     }
   },
-  "772": {
+  "771": {
     "source_ids": {
       "nhl_api": 8480313
     },
@@ -9260,6 +9248,16 @@
       "position": "G",
       "jersey_number": 48,
       "last_seen_teamAbbrev": "WSH",
+      "last_seen_teamName": ""
+    }
+  },
+  "772": {
+    "source_ids": {},
+    "canonical_name": "brenden dillon",
+    "attributes": {
+      "position": "D",
+      "jersey_number": "",
+      "last_seen_teamAbbrev": "NJD",
       "last_seen_teamName": ""
     }
   },

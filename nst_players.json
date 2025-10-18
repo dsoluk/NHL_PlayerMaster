@@ -249,7 +249,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 689
+        "master_id": 688
       },
       {
         "source_id": "nst_playerlist",
@@ -260,7 +260,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 677
+        "master_id": 676
       },
       {
         "source_id": "nst_playerlist",
@@ -271,7 +271,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 617
+        "master_id": 616
       },
       {
         "source_id": "nst_playerlist",
@@ -282,7 +282,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 679
+        "master_id": 678
       },
       {
         "source_id": "nst_playerlist",
@@ -293,7 +293,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 682
+        "master_id": 681
       },
       {
         "source_id": "nst_playerlist",
@@ -304,11 +304,22 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 692
+        "master_id": 691
       },
       {
         "source_id": "nst_playerlist",
         "name": "Drew O'Connor",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "VAN",
+          "last_seen_teamName": ""
+        },
+        "master_id": 686
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Elias Pettersson",
         "attributes": {
           "position": "F",
           "jersey_number": "",
@@ -321,23 +332,12 @@
         "source_id": "nst_playerlist",
         "name": "Elias Pettersson",
         "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "VAN",
-          "last_seen_teamName": ""
-        },
-        "master_id": 688
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Elias Pettersson",
-        "attributes": {
           "position": "D",
           "jersey_number": "",
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 698
+        "master_id": 697
       },
       {
         "source_id": "nst_playerlist",
@@ -348,7 +348,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 684
+        "master_id": 683
       },
       {
         "source_id": "nst_playerlist",
@@ -359,7 +359,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 680
+        "master_id": 679
       },
       {
         "source_id": "nst_playerlist",
@@ -370,7 +370,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 693
+        "master_id": 692
       },
       {
         "source_id": "nst_playerlist",
@@ -381,7 +381,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 681
+        "master_id": 680
       },
       {
         "source_id": "nst_playerlist",
@@ -392,7 +392,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 686
+        "master_id": 685
       },
       {
         "source_id": "nst_playerlist",
@@ -403,7 +403,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 701
+        "master_id": 700
       },
       {
         "source_id": "nst_playerlist",
@@ -414,7 +414,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 691
+        "master_id": 690
       },
       {
         "source_id": "nst_playerlist",
@@ -425,7 +425,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 685
+        "master_id": 684
       },
       {
         "source_id": "nst_playerlist",
@@ -436,7 +436,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 698
+        "master_id": 697
       },
       {
         "source_id": "nst_playerlist",
@@ -447,7 +447,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 690
+        "master_id": 689
       },
       {
         "source_id": "nst_playerlist",
@@ -458,7 +458,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 694
+        "master_id": 693
       },
       {
         "source_id": "nst_playerlist",
@@ -469,7 +469,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 678
+        "master_id": 677
       },
       {
         "source_id": "nst_playerlist",
@@ -480,7 +480,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 700
+        "master_id": 699
       },
       {
         "source_id": "nst_playerlist",
@@ -491,7 +491,7 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 697
+        "master_id": 696
       },
       {
         "source_id": "nst_playerlist",
@@ -502,7 +502,266 @@
           "last_seen_teamAbbrev": "VAN",
           "last_seen_teamName": ""
         },
-        "master_id": 696
+        "master_id": 695
+      }
+    ]
+  },
+  {
+    "teamName": "",
+    "teamAbbrev": "NYI",
+    "players": [
+      {
+        "source_id": "nst_playerlist",
+        "name": "Adam Boqvist",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 424
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Adam Pelech",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 427
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Alexander Romanov",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 429
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Anders Lee",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 417
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Anthony Duclair",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 412
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Bo Horvat",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 416
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Casey Cizikas",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 410
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "David Rittich",
+        "attributes": {
+          "position": "G",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 432
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Emil Heineman",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 414
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Ilya Sorokin",
+        "attributes": {
+          "position": "G",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 433
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Jean-Gabriel Pageau",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 419
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Jonathan Drouin",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 411
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Kyle MacLean",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 418
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Kyle Palmieri",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 418
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Marc Gatcomb",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 413
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Mathew Barzal",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 409
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Matthew Schaefer",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 430
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Max Shabanov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 421
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Maxim Tsyplakov",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 421
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Ryan Pulock",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 428
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Scott Mayfield",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 426
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Simon Holmstrom",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 415
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Tony DeAngelo",
+        "attributes": {
+          "position": "D",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "NYI",
+          "last_seen_teamName": ""
+        },
+        "master_id": 425
       }
     ]
   },
@@ -1274,7 +1533,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 559
+        "master_id": 558
       },
       {
         "source_id": "nst_playerlist",
@@ -1285,7 +1544,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 579
+        "master_id": 578
       },
       {
         "source_id": "nst_playerlist",
@@ -1296,7 +1555,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 568
+        "master_id": 567
       },
       {
         "source_id": "nst_playerlist",
@@ -1307,7 +1566,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 560
+        "master_id": 559
       },
       {
         "source_id": "nst_playerlist",
@@ -1318,7 +1577,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 561
+        "master_id": 560
       },
       {
         "source_id": "nst_playerlist",
@@ -1329,7 +1588,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 577
+        "master_id": 576
       },
       {
         "source_id": "nst_playerlist",
@@ -1340,7 +1599,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 565
+        "master_id": 564
       },
       {
         "source_id": "nst_playerlist",
@@ -1351,7 +1610,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 573
+        "master_id": 572
       },
       {
         "source_id": "nst_playerlist",
@@ -1362,7 +1621,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 556
+        "master_id": 555
       },
       {
         "source_id": "nst_playerlist",
@@ -1373,7 +1632,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 571
+        "master_id": 570
       },
       {
         "source_id": "nst_playerlist",
@@ -1384,7 +1643,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 563
+        "master_id": 562
       },
       {
         "source_id": "nst_playerlist",
@@ -1395,7 +1654,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 574
+        "master_id": 573
       },
       {
         "source_id": "nst_playerlist",
@@ -1406,7 +1665,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 562
+        "master_id": 561
       },
       {
         "source_id": "nst_playerlist",
@@ -1417,7 +1676,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 564
+        "master_id": 563
       },
       {
         "source_id": "nst_playerlist",
@@ -1428,7 +1687,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 570
+        "master_id": 569
       },
       {
         "source_id": "nst_playerlist",
@@ -1439,7 +1698,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 576
+        "master_id": 575
       },
       {
         "source_id": "nst_playerlist",
@@ -1450,7 +1709,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 575
+        "master_id": 574
       },
       {
         "source_id": "nst_playerlist",
@@ -1461,7 +1720,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 557
+        "master_id": 556
       },
       {
         "source_id": "nst_playerlist",
@@ -1472,7 +1731,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 567
+        "master_id": 566
       },
       {
         "source_id": "nst_playerlist",
@@ -1483,7 +1742,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 569
+        "master_id": 568
       },
       {
         "source_id": "nst_playerlist",
@@ -1494,7 +1753,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 569
+        "master_id": 568
       },
       {
         "source_id": "nst_playerlist",
@@ -1505,7 +1764,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 566
+        "master_id": 565
       },
       {
         "source_id": "nst_playerlist",
@@ -1516,7 +1775,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 558
+        "master_id": 557
       },
       {
         "source_id": "nst_playerlist",
@@ -1527,7 +1786,7 @@
           "last_seen_teamAbbrev": "SJS",
           "last_seen_teamName": ""
         },
-        "master_id": 578
+        "master_id": 577
       }
     ]
   },
@@ -1870,6 +2129,17 @@
           "last_seen_teamName": ""
         },
         "master_id": 246
+      },
+      {
+        "source_id": "nst_playerlist",
+        "name": "Curtis Lazar",
+        "attributes": {
+          "position": "F",
+          "jersey_number": "",
+          "last_seen_teamAbbrev": "EDM",
+          "last_seen_teamName": ""
+        },
+        "master_id": 244
       },
       {
         "source_id": "nst_playerlist",
@@ -2332,7 +2602,7 @@
           "last_seen_teamAbbrev": "SEA",
           "last_seen_teamName": ""
         },
-        "master_id": 551
+        "master_id": 644
       },
       {
         "source_id": "nst_playerlist",
@@ -2387,7 +2657,7 @@
           "last_seen_teamAbbrev": "SEA",
           "last_seen_teamName": ""
         },
-        "master_id": 552
+        "master_id": 551
       },
       {
         "source_id": "nst_playerlist",
@@ -2420,7 +2690,7 @@
           "last_seen_teamAbbrev": "SEA",
           "last_seen_teamName": ""
         },
-        "master_id": 553
+        "master_id": 552
       },
       {
         "source_id": "nst_playerlist",
@@ -2475,7 +2745,7 @@
           "last_seen_teamAbbrev": "SEA",
           "last_seen_teamName": ""
         },
-        "master_id": 554
+        "master_id": 553
       },
       {
         "source_id": "nst_playerlist",
@@ -2531,254 +2801,6 @@
           "last_seen_teamName": ""
         },
         "master_id": 545
-      }
-    ]
-  },
-  {
-    "teamName": "",
-    "teamAbbrev": "NYI",
-    "players": [
-      {
-        "source_id": "nst_playerlist",
-        "name": "Adam Pelech",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 427
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Alexander Romanov",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 429
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Anders Lee",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 417
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Anthony Duclair",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 412
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Bo Horvat",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 416
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Casey Cizikas",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 410
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "David Rittich",
-        "attributes": {
-          "position": "G",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 432
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Emil Heineman",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 414
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Ilya Sorokin",
-        "attributes": {
-          "position": "G",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 433
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Jean-Gabriel Pageau",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 419
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Jonathan Drouin",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 411
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Kyle MacLean",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 418
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Kyle Palmieri",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 418
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Marc Gatcomb",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 413
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Mathew Barzal",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 409
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Matthew Schaefer",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 430
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Max Shabanov",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 421
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Maxim Tsyplakov",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 421
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Ryan Pulock",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 428
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Scott Mayfield",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 426
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Simon Holmstrom",
-        "attributes": {
-          "position": "F",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 415
-      },
-      {
-        "source_id": "nst_playerlist",
-        "name": "Tony DeAngelo",
-        "attributes": {
-          "position": "D",
-          "jersey_number": "",
-          "last_seen_teamAbbrev": "NYI",
-          "last_seen_teamName": ""
-        },
-        "master_id": 425
       }
     ]
   },
@@ -2872,7 +2894,7 @@
           "last_seen_teamAbbrev": "NSH",
           "last_seen_teamName": ""
         },
-        "master_id": 704
+        "master_id": 703
       },
       {
         "source_id": "nst_playerlist",
@@ -3043,7 +3065,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 723
+        "master_id": 722
       },
       {
         "source_id": "nst_playerlist",
@@ -3054,7 +3076,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 724
+        "master_id": 723
       },
       {
         "source_id": "nst_playerlist",
@@ -3065,7 +3087,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 717
+        "master_id": 716
       },
       {
         "source_id": "nst_playerlist",
@@ -3076,7 +3098,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 712
+        "master_id": 711
       },
       {
         "source_id": "nst_playerlist",
@@ -3087,7 +3109,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 720
+        "master_id": 719
       },
       {
         "source_id": "nst_playerlist",
@@ -3098,7 +3120,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 707
+        "master_id": 706
       },
       {
         "source_id": "nst_playerlist",
@@ -3109,7 +3131,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 711
+        "master_id": 710
       },
       {
         "source_id": "nst_playerlist",
@@ -3120,7 +3142,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 713
+        "master_id": 712
       },
       {
         "source_id": "nst_playerlist",
@@ -3131,7 +3153,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 702
+        "master_id": 701
       },
       {
         "source_id": "nst_playerlist",
@@ -3142,7 +3164,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 607
+        "master_id": 606
       },
       {
         "source_id": "nst_playerlist",
@@ -3153,7 +3175,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 719
+        "master_id": 718
       },
       {
         "source_id": "nst_playerlist",
@@ -3164,7 +3186,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 718
+        "master_id": 717
       },
       {
         "source_id": "nst_playerlist",
@@ -3175,7 +3197,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 709
+        "master_id": 708
       },
       {
         "source_id": "nst_playerlist",
@@ -3186,7 +3208,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 715
+        "master_id": 714
       },
       {
         "source_id": "nst_playerlist",
@@ -3197,7 +3219,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 710
+        "master_id": 709
       },
       {
         "source_id": "nst_playerlist",
@@ -3208,7 +3230,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 716
+        "master_id": 715
       },
       {
         "source_id": "nst_playerlist",
@@ -3219,7 +3241,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 703
+        "master_id": 702
       },
       {
         "source_id": "nst_playerlist",
@@ -3230,7 +3252,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 714
+        "master_id": 713
       },
       {
         "source_id": "nst_playerlist",
@@ -3241,7 +3263,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 721
+        "master_id": 720
       },
       {
         "source_id": "nst_playerlist",
@@ -3252,7 +3274,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 705
+        "master_id": 704
       },
       {
         "source_id": "nst_playerlist",
@@ -3263,7 +3285,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 708
+        "master_id": 707
       },
       {
         "source_id": "nst_playerlist",
@@ -3274,7 +3296,7 @@
           "last_seen_teamAbbrev": "VGK",
           "last_seen_teamName": ""
         },
-        "master_id": 722
+        "master_id": 721
       }
     ]
   },
@@ -3787,7 +3809,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 729
+        "master_id": 728
       },
       {
         "source_id": "nst_playerlist",
@@ -3798,7 +3820,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 730
+        "master_id": 729
       },
       {
         "source_id": "nst_playerlist",
@@ -3809,7 +3831,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 742
+        "master_id": 741
       },
       {
         "source_id": "nst_playerlist",
@@ -3820,7 +3842,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 749
+        "master_id": 748
       },
       {
         "source_id": "nst_playerlist",
@@ -3831,7 +3853,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 740
+        "master_id": 739
       },
       {
         "source_id": "nst_playerlist",
@@ -3842,7 +3864,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 748
+        "master_id": 747
       },
       {
         "source_id": "nst_playerlist",
@@ -3853,7 +3875,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 739
+        "master_id": 738
       },
       {
         "source_id": "nst_playerlist",
@@ -3864,7 +3886,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 734
+        "master_id": 733
       },
       {
         "source_id": "nst_playerlist",
@@ -3875,7 +3897,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 741
+        "master_id": 740
       },
       {
         "source_id": "nst_playerlist",
@@ -3886,7 +3908,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 738
+        "master_id": 737
       },
       {
         "source_id": "nst_playerlist",
@@ -3897,7 +3919,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 743
+        "master_id": 742
       },
       {
         "source_id": "nst_playerlist",
@@ -3908,7 +3930,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 727
+        "master_id": 726
       },
       {
         "source_id": "nst_playerlist",
@@ -3919,7 +3941,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 747
+        "master_id": 746
       },
       {
         "source_id": "nst_playerlist",
@@ -3930,7 +3952,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 746
+        "master_id": 745
       },
       {
         "source_id": "nst_playerlist",
@@ -3941,7 +3963,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 737
+        "master_id": 736
       },
       {
         "source_id": "nst_playerlist",
@@ -3952,7 +3974,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 725
+        "master_id": 724
       },
       {
         "source_id": "nst_playerlist",
@@ -3963,7 +3985,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 744
+        "master_id": 743
       },
       {
         "source_id": "nst_playerlist",
@@ -3974,7 +3996,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 726
+        "master_id": 725
       },
       {
         "source_id": "nst_playerlist",
@@ -3985,7 +4007,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 733
+        "master_id": 732
       },
       {
         "source_id": "nst_playerlist",
@@ -3996,7 +4018,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 728
+        "master_id": 727
       },
       {
         "source_id": "nst_playerlist",
@@ -4007,7 +4029,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 735
+        "master_id": 734
       },
       {
         "source_id": "nst_playerlist",
@@ -4018,7 +4040,7 @@
           "last_seen_teamAbbrev": "WPG",
           "last_seen_teamName": ""
         },
-        "master_id": 732
+        "master_id": 731
       }
     ]
   },
@@ -4768,7 +4790,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 758
+        "master_id": 757
       },
       {
         "source_id": "nst_playerlist",
@@ -4779,7 +4801,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 759
+        "master_id": 758
       },
       {
         "source_id": "nst_playerlist",
@@ -4790,7 +4812,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 750
+        "master_id": 749
       },
       {
         "source_id": "nst_playerlist",
@@ -4801,7 +4823,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 753
+        "master_id": 752
       },
       {
         "source_id": "nst_playerlist",
@@ -4812,7 +4834,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 771
+        "master_id": 770
       },
       {
         "source_id": "nst_playerlist",
@@ -4823,7 +4845,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 756
+        "master_id": 755
       },
       {
         "source_id": "nst_playerlist",
@@ -4834,7 +4856,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 764
+        "master_id": 763
       },
       {
         "source_id": "nst_playerlist",
@@ -4845,7 +4867,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 761
+        "master_id": 760
       },
       {
         "source_id": "nst_playerlist",
@@ -4856,7 +4878,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 754
+        "master_id": 753
       },
       {
         "source_id": "nst_playerlist",
@@ -4867,7 +4889,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 765
+        "master_id": 764
       },
       {
         "source_id": "nst_playerlist",
@@ -4878,7 +4900,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 763
+        "master_id": 762
       },
       {
         "source_id": "nst_playerlist",
@@ -4889,7 +4911,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 760
+        "master_id": 759
       },
       {
         "source_id": "nst_playerlist",
@@ -4900,7 +4922,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 772
+        "master_id": 771
       },
       {
         "source_id": "nst_playerlist",
@@ -4911,7 +4933,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 766
+        "master_id": 765
       },
       {
         "source_id": "nst_playerlist",
@@ -4922,7 +4944,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 768
+        "master_id": 767
       },
       {
         "source_id": "nst_playerlist",
@@ -4933,7 +4955,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 751
+        "master_id": 750
       },
       {
         "source_id": "nst_playerlist",
@@ -4944,7 +4966,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 752
+        "master_id": 751
       },
       {
         "source_id": "nst_playerlist",
@@ -4955,7 +4977,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 769
+        "master_id": 768
       },
       {
         "source_id": "nst_playerlist",
@@ -4966,7 +4988,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 755
+        "master_id": 754
       },
       {
         "source_id": "nst_playerlist",
@@ -4977,7 +4999,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 757
+        "master_id": 756
       },
       {
         "source_id": "nst_playerlist",
@@ -4988,7 +5010,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 762
+        "master_id": 761
       },
       {
         "source_id": "nst_playerlist",
@@ -4999,7 +5021,7 @@
           "last_seen_teamAbbrev": "WSH",
           "last_seen_teamName": ""
         },
-        "master_id": 770
+        "master_id": 769
       }
     ]
   },
@@ -5523,7 +5545,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 590
+        "master_id": 589
       },
       {
         "source_id": "nst_playerlist",
@@ -5534,7 +5556,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 592
+        "master_id": 591
       },
       {
         "source_id": "nst_playerlist",
@@ -5545,7 +5567,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 586
+        "master_id": 585
       },
       {
         "source_id": "nst_playerlist",
@@ -5556,7 +5578,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 596
+        "master_id": 595
       },
       {
         "source_id": "nst_playerlist",
@@ -5567,7 +5589,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 599
+        "master_id": 598
       },
       {
         "source_id": "nst_playerlist",
@@ -5578,7 +5600,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 582
+        "master_id": 581
       },
       {
         "source_id": "nst_playerlist",
@@ -5589,7 +5611,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 585
+        "master_id": 584
       },
       {
         "source_id": "nst_playerlist",
@@ -5600,7 +5622,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 587
+        "master_id": 586
       },
       {
         "source_id": "nst_playerlist",
@@ -5611,7 +5633,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 602
+        "master_id": 601
       },
       {
         "source_id": "nst_playerlist",
@@ -5622,7 +5644,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 601
+        "master_id": 600
       },
       {
         "source_id": "nst_playerlist",
@@ -5633,7 +5655,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 584
+        "master_id": 583
       },
       {
         "source_id": "nst_playerlist",
@@ -5644,7 +5666,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 595
+        "master_id": 594
       },
       {
         "source_id": "nst_playerlist",
@@ -5655,7 +5677,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 598
+        "master_id": 597
       },
       {
         "source_id": "nst_playerlist",
@@ -5666,7 +5688,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 583
+        "master_id": 582
       },
       {
         "source_id": "nst_playerlist",
@@ -5677,7 +5699,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 593
+        "master_id": 592
       },
       {
         "source_id": "nst_playerlist",
@@ -5688,7 +5710,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 580
+        "master_id": 579
       },
       {
         "source_id": "nst_playerlist",
@@ -5699,7 +5721,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 581
+        "master_id": 580
       },
       {
         "source_id": "nst_playerlist",
@@ -5710,7 +5732,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 594
+        "master_id": 593
       },
       {
         "source_id": "nst_playerlist",
@@ -5721,7 +5743,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 589
+        "master_id": 588
       },
       {
         "source_id": "nst_playerlist",
@@ -5732,7 +5754,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 591
+        "master_id": 590
       },
       {
         "source_id": "nst_playerlist",
@@ -5743,7 +5765,7 @@
           "last_seen_teamAbbrev": "STL",
           "last_seen_teamName": ""
         },
-        "master_id": 600
+        "master_id": 599
       }
     ]
   },
@@ -5760,7 +5782,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 628
+        "master_id": 627
       },
       {
         "source_id": "nst_playerlist",
@@ -5771,7 +5793,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 605
+        "master_id": 604
       },
       {
         "source_id": "nst_playerlist",
@@ -5782,7 +5804,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 613
+        "master_id": 612
       },
       {
         "source_id": "nst_playerlist",
@@ -5793,7 +5815,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 613
+        "master_id": 612
       },
       {
         "source_id": "nst_playerlist",
@@ -5804,7 +5826,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 608
+        "master_id": 607
       },
       {
         "source_id": "nst_playerlist",
@@ -5815,7 +5837,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 606
+        "master_id": 605
       },
       {
         "source_id": "nst_playerlist",
@@ -5826,7 +5848,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 625
+        "master_id": 624
       },
       {
         "source_id": "nst_playerlist",
@@ -5837,7 +5859,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 622
+        "master_id": 621
       },
       {
         "source_id": "nst_playerlist",
@@ -5848,7 +5870,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 619
+        "master_id": 618
       },
       {
         "source_id": "nst_playerlist",
@@ -5859,7 +5881,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 610
+        "master_id": 609
       },
       {
         "source_id": "nst_playerlist",
@@ -5870,7 +5892,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 624
+        "master_id": 623
       },
       {
         "source_id": "nst_playerlist",
@@ -5881,7 +5903,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 661
+        "master_id": 660
       },
       {
         "source_id": "nst_playerlist",
@@ -5892,7 +5914,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 612
+        "master_id": 611
       },
       {
         "source_id": "nst_playerlist",
@@ -5903,7 +5925,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 627
+        "master_id": 626
       },
       {
         "source_id": "nst_playerlist",
@@ -5914,7 +5936,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 620
+        "master_id": 619
       },
       {
         "source_id": "nst_playerlist",
@@ -5925,7 +5947,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 604
+        "master_id": 603
       },
       {
         "source_id": "nst_playerlist",
@@ -5936,7 +5958,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 615
+        "master_id": 614
       },
       {
         "source_id": "nst_playerlist",
@@ -5947,7 +5969,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 603
+        "master_id": 602
       },
       {
         "source_id": "nst_playerlist",
@@ -5958,7 +5980,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 614
+        "master_id": 613
       },
       {
         "source_id": "nst_playerlist",
@@ -5969,7 +5991,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 623
+        "master_id": 622
       },
       {
         "source_id": "nst_playerlist",
@@ -5980,7 +6002,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 621
+        "master_id": 620
       },
       {
         "source_id": "nst_playerlist",
@@ -5991,7 +6013,7 @@
           "last_seen_teamAbbrev": "TBL",
           "last_seen_teamName": ""
         },
-        "master_id": 611
+        "master_id": 610
       }
     ]
   },
@@ -6008,7 +6030,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 653
+        "master_id": 652
       },
       {
         "source_id": "nst_playerlist",
@@ -6019,7 +6041,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 658
+        "master_id": 657
       },
       {
         "source_id": "nst_playerlist",
@@ -6030,7 +6052,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 666
+        "master_id": 665
       },
       {
         "source_id": "nst_playerlist",
@@ -6041,7 +6063,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 659
+        "master_id": 658
       },
       {
         "source_id": "nst_playerlist",
@@ -6052,7 +6074,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 674
+        "master_id": 673
       },
       {
         "source_id": "nst_playerlist",
@@ -6063,7 +6085,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 657
+        "master_id": 656
       },
       {
         "source_id": "nst_playerlist",
@@ -6074,7 +6096,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 668
+        "master_id": 667
       },
       {
         "source_id": "nst_playerlist",
@@ -6085,7 +6107,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 663
+        "master_id": 662
       },
       {
         "source_id": "nst_playerlist",
@@ -6096,7 +6118,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 653
+        "master_id": 652
       },
       {
         "source_id": "nst_playerlist",
@@ -6107,7 +6129,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 670
+        "master_id": 669
       },
       {
         "source_id": "nst_playerlist",
@@ -6118,7 +6140,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 667
+        "master_id": 666
       },
       {
         "source_id": "nst_playerlist",
@@ -6129,7 +6151,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 676
+        "master_id": 675
       },
       {
         "source_id": "nst_playerlist",
@@ -6140,7 +6162,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 665
+        "master_id": 664
       },
       {
         "source_id": "nst_playerlist",
@@ -6151,7 +6173,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 656
+        "master_id": 655
       },
       {
         "source_id": "nst_playerlist",
@@ -6162,7 +6184,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 662
+        "master_id": 661
       },
       {
         "source_id": "nst_playerlist",
@@ -6173,7 +6195,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 655
+        "master_id": 654
       },
       {
         "source_id": "nst_playerlist",
@@ -6184,7 +6206,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 654
+        "master_id": 653
       },
       {
         "source_id": "nst_playerlist",
@@ -6195,7 +6217,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 673
+        "master_id": 672
       },
       {
         "source_id": "nst_playerlist",
@@ -6206,7 +6228,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 672
+        "master_id": 671
       },
       {
         "source_id": "nst_playerlist",
@@ -6217,7 +6239,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 664
+        "master_id": 663
       },
       {
         "source_id": "nst_playerlist",
@@ -6228,7 +6250,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 671
+        "master_id": 670
       },
       {
         "source_id": "nst_playerlist",
@@ -6239,7 +6261,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 672
+        "master_id": 671
       },
       {
         "source_id": "nst_playerlist",
@@ -6250,7 +6272,7 @@
           "last_seen_teamAbbrev": "UTA",
           "last_seen_teamName": ""
         },
-        "master_id": 675
+        "master_id": 674
       }
     ]
   },
@@ -6785,7 +6807,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 652
+        "master_id": 651
       },
       {
         "source_id": "nst_playerlist",
@@ -6796,7 +6818,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 638
+        "master_id": 637
       },
       {
         "source_id": "nst_playerlist",
@@ -6807,7 +6829,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 639
+        "master_id": 638
       },
       {
         "source_id": "nst_playerlist",
@@ -6818,7 +6840,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 645
+        "master_id": 377
       },
       {
         "source_id": "nst_playerlist",
@@ -6829,7 +6851,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 632
+        "master_id": 631
       },
       {
         "source_id": "nst_playerlist",
@@ -6840,7 +6862,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 651
+        "master_id": 650
       },
       {
         "source_id": "nst_playerlist",
@@ -6851,7 +6873,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 650
+        "master_id": 649
       },
       {
         "source_id": "nst_playerlist",
@@ -6862,7 +6884,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 633
+        "master_id": 632
       },
       {
         "source_id": "nst_playerlist",
@@ -6873,7 +6895,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 630
+        "master_id": 629
       },
       {
         "source_id": "nst_playerlist",
@@ -6884,7 +6906,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 647
+        "master_id": 646
       },
       {
         "source_id": "nst_playerlist",
@@ -6895,7 +6917,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 643
+        "master_id": 642
       },
       {
         "source_id": "nst_playerlist",
@@ -6906,7 +6928,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 637
+        "master_id": 636
       },
       {
         "source_id": "nst_playerlist",
@@ -6917,7 +6939,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 634
+        "master_id": 633
       },
       {
         "source_id": "nst_playerlist",
@@ -6928,7 +6950,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 631
+        "master_id": 630
       },
       {
         "source_id": "nst_playerlist",
@@ -6939,7 +6961,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 649
+        "master_id": 648
       },
       {
         "source_id": "nst_playerlist",
@@ -6950,7 +6972,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 641
+        "master_id": 640
       },
       {
         "source_id": "nst_playerlist",
@@ -6961,7 +6983,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 641
+        "master_id": 640
       },
       {
         "source_id": "nst_playerlist",
@@ -6972,7 +6994,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 646
+        "master_id": 645
       },
       {
         "source_id": "nst_playerlist",
@@ -6983,7 +7005,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 644
+        "master_id": 643
       },
       {
         "source_id": "nst_playerlist",
@@ -6994,7 +7016,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 636
+        "master_id": 635
       },
       {
         "source_id": "nst_playerlist",
@@ -7005,7 +7027,7 @@
           "last_seen_teamAbbrev": "TOR",
           "last_seen_teamName": ""
         },
-        "master_id": 640
+        "master_id": 639
       }
     ]
   },
@@ -7033,7 +7055,7 @@
           "last_seen_teamAbbrev": "NJD",
           "last_seen_teamName": ""
         },
-        "master_id": 377
+        "master_id": 772
       },
       {
         "source_id": "nst_playerlist",

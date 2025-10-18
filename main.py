@@ -9,64 +9,21 @@ import jellyfish
 
 # ---- Team and Position Normalization Helpers ----
 
-def load_team_mappings(xlsx_path='Team2TM.xlsx', csv_path='Team2TM.csv'):
-    """Load team code mappings from Team2TM.csv or Team2TM.xlsx with columns NHL, HR, NST.
-    Preference order: CSV (no extra deps) then Excel via openpyxl.
-    Returns a dict with sub-maps: { 'HR': {hr: nhl}, 'NST': {nst: nhl}, 'NHL': set([...]) }.
-    If neither source is available, returns minimal identity mapping.
+def load_team_mappings(xlsx_path='Team2TM.xlsx'):
+    """Load team code mappings from Team2TM.xlsx.
+    Primary requirement: read the NHL column to get the list of valid NHL team abbreviations.
+    If HR, NST, or AG columns are present, also build cross-source maps to NHL, but they are optional.
+    Returns a dict with sub-maps: { 'HR': {hr: nhl}, 'NST': {nst: nhl}, 'AG': {ag: nhl}, 'NHL': set([...]) }.
+    If the Excel file or required column is unavailable, returns an empty/default mapping.
     """
-    mappings = {'HR': {}, 'NST': {}, 'NHL': set()}
+    mappings = {'HR': {}, 'NST': {}, 'AG': {}, 'NHL': set()}
 
-    # 1) Try CSV first (uses stdlib only)
-    try:
-        csv_try_paths = [csv_path, os.path.join(os.getcwd(), csv_path)]
-        csv_path_use = next((p for p in csv_try_paths if p and os.path.exists(p)), None)
-        if csv_path_use:
-            with open(csv_path_use, 'r', encoding='utf-8-sig', newline='') as f:
-                reader = csv.reader(f)
-                rows = list(reader)
-            if rows:
-                header = [(c or '').strip().upper() for c in rows[0]]
-                def idx(col):
-                    try:
-                        return header.index(col)
-                    except ValueError:
-                        return None
-                nhl_idx = idx('NHL')
-                hr_idx = idx('HR')
-                nst_idx = idx('NST')
-                if nhl_idx is None:
-                    print("Team mapping: 'NHL' column not found in CSV header; proceeding without mapping from CSV.")
-                else:
-                    for row in rows[1:]:
-                        # Guard against short/empty rows
-                        if not row or nhl_idx >= len(row):
-                            continue
-                        nhl = (str(row[nhl_idx]) if row[nhl_idx] is not None else '').strip().upper()
-                        if not nhl:
-                            continue
-                        mappings['NHL'].add(nhl)
-                        if hr_idx is not None and hr_idx < len(row) and row[hr_idx] is not None:
-                            hr = str(row[hr_idx]).strip().upper()
-                            if hr:
-                                mappings['HR'][hr] = nhl
-                        if nst_idx is not None and nst_idx < len(row) and row[nst_idx] is not None:
-                            nst = str(row[nst_idx]).strip().upper()
-                            if nst:
-                                mappings['NST'][nst] = nhl
-                    # Successfully loaded from CSV, return now
-                    return mappings
-    except Exception as e:
-        print(f"Team mapping CSV load warning: {e}. Will try Excel next.")
-
-    # 2) Try Excel via openpyxl
     try:
         import openpyxl  # type: ignore
         xlsx_try_paths = [xlsx_path, os.path.join(os.getcwd(), xlsx_path)]
         xlsx_path_use = next((p for p in xlsx_try_paths if p and os.path.exists(p)), None)
         if not xlsx_path_use:
-            # Neither CSV nor Excel found
-            print("Team mapping notice: Team2TM.csv not found and Excel file missing; proceeding without cross-source mapping.")
+            print("Team mapping notice: Excel file Team2TM.xlsx not found; proceeding without cross-source mapping.")
             return mappings
         wb = openpyxl.load_workbook(xlsx_path_use, data_only=True)
         ws = wb.active
@@ -79,11 +36,12 @@ def load_team_mappings(xlsx_path='Team2TM.xlsx', csv_path='Team2TM.csv'):
         nhl_idx = headers.get('NHL')
         hr_idx = headers.get('HR')
         nst_idx = headers.get('NST')
+        ag_idx = headers.get('AG')
         if nhl_idx is None:
             print("Team mapping: 'NHL' column not found in Excel header; proceeding without mapping from Excel.")
             return mappings
         for row in ws.iter_rows(min_row=2, values_only=True):
-            nhl = (str(row[nhl_idx]) if row and nhl_idx is not None and row[nhl_idx] is not None else '').strip().upper()
+            nhl = (str(row[nhl_idx]) if row and row[nhl_idx] is not None else '').strip().upper()
             if not nhl:
                 continue
             mappings['NHL'].add(nhl)
@@ -95,9 +53,13 @@ def load_team_mappings(xlsx_path='Team2TM.xlsx', csv_path='Team2TM.csv'):
                 nst = str(row[nst_idx]).strip().upper()
                 if nst:
                     mappings['NST'][nst] = nhl
+            if ag_idx is not None and row and row[ag_idx] is not None:
+                ag = str(row[ag_idx]).strip().upper()
+                if ag:
+                    mappings['AG'][ag] = nhl
         return mappings
     except ModuleNotFoundError:
-        print("Team mapping notice: openpyxl not installed and Team2TM.csv not found; proceeding without cross-source mapping.")
+        print("Team mapping notice: openpyxl not installed; proceeding without cross-source mapping.")
     except Exception as e:
         print(f"Team mapping Excel load warning: {e}. Proceeding without cross-source mapping.")
 
@@ -135,6 +97,10 @@ def normalize_team_for_source(source, team_abbrev, mappings):
             return mapped
     elif src in ('naturalstattrick', 'nst'):
         mapped = mappings.get('NST', {}).get(t)
+        if mapped:
+            return mapped
+    elif src in ('ag', 'ag_projections'):
+        mapped = mappings.get('AG', {}).get(t)
         if mapped:
             return mapped
 
@@ -556,6 +522,22 @@ def main():
             json.dump(hr_summary, file, indent=2)
     except Exception as e:
         print(f"Hockey-Reference processing failed: {e}")
+
+    # Fetch and process AG's Projections from Excel (fourth source)
+    try:
+        default_ag_path = "C:\\Users\\soluk\\OneDrive\\Documents\\FantasyNHL\\NatePts.xlsx"
+        ag_processed, ag_summary = process_ag_player_names(
+            registry,
+            path=default_ag_path,
+            sheet_name="NatePts",
+            table_name="NatePts"
+        )
+        with open('ag_players.json', 'w', encoding='utf-8') as file:
+            json.dump(ag_processed, file, indent=2)
+        with open('ag_run_summary.json', 'w', encoding='utf-8') as file:
+            json.dump(ag_summary, file, indent=2)
+    except Exception as e:
+        print(f"AG Projections processing failed: {e}")
     
     # Save the updated player registry
     registry.export_to_json()
@@ -1049,6 +1031,167 @@ def process_hr_player_names(registry, season=2026):
             else:
                 team_existing += 1
         print(f"HR: Processed {processed_count} players for {team_abbrev or team_name} (new: {team_new}, existing: {team_existing})")
+        summary["teams"].append({
+            "teamAbbrev": team_abbrev,
+            "teamName": team_name,
+            "new": team_new,
+            "existing": team_existing,
+            "total": processed_count
+        })
+        summary["totals"]["new"] += team_new
+        summary["totals"]["existing"] += team_existing
+        processed_data.append(out_team)
+
+    return processed_data, summary
+
+
+def parse_ag_pts_xlsx(path, sheet_name="NatePts", table_name="NatePts"):
+    """Parse AG's Projections Excel table into team-grouped structure.
+    - path: absolute path to the Excel file
+    - sheet_name: worksheet name that contains the table
+    - table_name: Excel table name to read (preferred). If not found, falls back to using the sheet's used range.
+    Returns list of {teamName, teamAbbrev, players: [ {source_id, name, attributes{position, jersey_number, last_seen_teamAbbrev, last_seen_teamName}} ]}
+    """
+    try:
+        import openpyxl  # type: ignore
+    except ModuleNotFoundError:
+        print("AG: openpyxl is not installed; cannot read Excel file.")
+        return []
+    try:
+        if not path or not os.path.exists(path):
+            print(f"AG: Excel file not found at: {path}")
+            return []
+        wb = openpyxl.load_workbook(path, data_only=True, read_only=True)
+        ws = wb[sheet_name] if sheet_name in wb.sheetnames else wb.active
+
+        # Determine cell range: prefer named table
+        ref = None
+        try:
+            # openpyxl stores tables in ws.tables dict
+            if hasattr(ws, 'tables') and table_name in getattr(ws, 'tables'):
+                table_obj = ws.tables[table_name]
+                ref = table_obj.ref
+        except Exception:
+            ref = None
+
+        # Read headers and rows
+        headers = []
+        rows = []
+        if ref:
+            min_col, min_row, max_col, max_row = openpyxl.utils.range_boundaries(ref)
+            for r in ws.iter_rows(min_row=min_row, max_row=max_row, min_col=min_col, max_col=max_col, values_only=True):
+                rows.append([ (str(c) if c is not None else '').strip() for c in r ])
+        else:
+            # Fallback: use the first contiguous block as data
+            for r in ws.iter_rows(values_only=True):
+                # convert to list of strings
+                rows.append([ (str(c) if c is not None else '').strip() for c in r ])
+
+        if not rows:
+            print("AG: No rows found in worksheet")
+            return []
+
+        # Find header row containing 'Player' or similar
+        header_row_idx = None
+        for i in range(min(5, len(rows))):
+            cand = [ (c or '').strip() for c in rows[i] ]
+            lower = [x.lower() for x in cand]
+            if any(x in lower for x in ('player', 'name', 'skater')):
+                header_row_idx = i
+                headers = cand
+                break
+        if header_row_idx is None:
+            headers = [ (c or '').strip() for c in rows[0] ]
+            header_row_idx = 0
+            print("AG: Could not locate header with 'Player'; using first row as header")
+
+        data_rows = rows[header_row_idx + 1:]
+
+        # Helper to access fields case-insensitively
+        lower_index = { (h or '').strip().lower(): idx for idx, h in enumerate(headers) }
+        def get(row, *keys):
+            for k in keys:
+                i = lower_index.get((k or '').strip().lower())
+                if i is not None and i < len(row):
+                    return row[i]
+            return ''
+
+        # Build team buckets
+        teams = {}
+        kept = 0
+        for row in data_rows:
+            name = (get(row, 'Player', 'Name') or '').strip()
+            if not name:
+                continue
+            team = (get(row, 'Team', 'Tm', 'TeamAbbrev') or '').replace('\ufeff', '').strip().upper() or 'UNKNOWN'
+            pos = (get(row, 'Pos', 'Position') or '').strip().upper()
+            if team not in teams:
+                teams[team] = set()
+            teams[team].add((name, pos))
+            kept += 1
+        print(f"AG: Parsed {kept} player rows across {len(teams)} team buckets")
+
+        processed = []
+        for team_abbrev, name_pos_set in teams.items():
+            team_info = {
+                "teamName": "",
+                "teamAbbrev": team_abbrev,
+                "players": [{
+                    "source_id": "ag_pts_xlsx",
+                    "name": n,
+                    "attributes": {
+                        "position": p,
+                        "jersey_number": "",
+                        "last_seen_teamAbbrev": team_abbrev,
+                        "last_seen_teamName": "",
+                    }
+                } for (n, p) in sorted(name_pos_set)]
+            }
+            processed.append(team_info)
+        return processed
+    except Exception as e:
+        print(f"AG: Excel parse error: {e}")
+        return []
+
+
+def process_ag_player_names(registry, path, sheet_name="NatePts", table_name="NatePts"):
+    """Load and register player names from AG's Projections Excel file.
+    Returns (processed_data, summary) similar to other sources.
+    """
+    data = parse_ag_pts_xlsx(path, sheet_name=sheet_name, table_name=table_name)
+
+    source = "ag_projections"
+    processed_data = []
+    summary = {"totals": {"new": 0, "existing": 0}, "teams": []}
+
+    if not data:
+        print("AG: No teams parsed from Excel")
+
+    for team in data:
+        raw_team_abbrev = team.get("teamAbbrev", "")
+        team_abbrev = normalize_team_for_source(source, raw_team_abbrev, TEAM_MAPPINGS)
+        team_name = team.get("teamName", "")
+        team_new = 0
+        team_existing = 0
+        processed_count = 0
+        out_team = {"teamName": team_name, "teamAbbrev": team_abbrev, "players": []}
+        for p in team.get("players", []):
+            name = p.get("name", "").strip()
+            attrs = p.get("attributes", {})
+            if not name:
+                continue
+            attrs = normalize_attrs_for_source(source, attrs, TEAM_MAPPINGS)
+            master_id, created = registry.register_player(source, None, name, attrs)
+            out_p = dict(p)
+            out_p["attributes"] = attrs
+            out_p["master_id"] = master_id
+            out_team["players"].append(out_p)
+            processed_count += 1
+            if created:
+                team_new += 1
+            else:
+                team_existing += 1
+        print(f"AG: Processed {processed_count} players for {team_abbrev or team_name} (new: {team_new}, existing: {team_existing})")
         summary["teams"].append({
             "teamAbbrev": team_abbrev,
             "teamName": team_name,

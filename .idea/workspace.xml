@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="added nst">
+    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="changed project name">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team2TM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Team2TM.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all_teams_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_players.json" beforeDir="false" afterPath="$PROJECT_DIR$/hr_players.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nst_players.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_players.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nst_run_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_run_summary.json" afterDir="false" />
@@ -22,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dsoluk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dsoluk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dsoluk/NHL_PlayerMaster.git",
-    "accountId": "bbf4a87e-95b6-43c6-a613-71d70dad8adc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dsoluk/NHL_PlayerMaster.git&quot;,
+    &quot;accountId&quot;: &quot;bbf4a87e-95b6-43c6-a613-71d70dad8adc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -63,7 +66,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="NHLfantasy" />
+      <module name="NHL_PlayerRegistry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +110,8 @@
       <workItem from="1733872158239" duration="353000" />
       <workItem from="1733872522095" duration="21435000" />
       <workItem from="1760660432957" duration="1485000" />
-      <workItem from="1760710740390" duration="26112000" />
+      <workItem from="1760710740390" duration="27480000" />
+      <workItem from="1760827632085" duration="3027000" />
     </task>
     <task id="LOCAL-00001" summary="added summary">
       <option name="closed" value="true" />
@@ -125,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760750448211</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed logic and added hr">
+      <option name="closed" value="true" />
+      <created>1760812822203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760812822203</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed project name">
+      <option name="closed" value="true" />
+      <created>1760813021038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760813021038</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +165,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added summary" />
     <MESSAGE value="added nst" />
-    <option name="LAST_COMMIT_MESSAGE" value="added nst" />
+    <MESSAGE value="fixed logic and added hr" />
+    <MESSAGE value="changed project name" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed project name" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NHLfantasy$main.coverage" NAME="main Coverage Results" MODIFIED="1760812627424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NHL_PlayerRegistry$main.coverage" NAME="main Coverage Results" MODIFIED="1760830463133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 {
   "totals": {
-    "new": 1,
-    "existing": 710
+    "new": 2,
+    "existing": 711
   },
   "teams": [
     {
@@ -17,6 +17,13 @@
       "new": 0,
       "existing": 24,
       "total": 24
+    },
+    {
+      "teamAbbrev": "NYI",
+      "teamName": "",
+      "new": 0,
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "NYR",
@@ -57,8 +64,8 @@
       "teamAbbrev": "EDM",
       "teamName": "",
       "new": 0,
-      "existing": 22,
-      "total": 22
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "CGY",
@@ -73,13 +80,6 @@
       "new": 0,
       "existing": 20,
       "total": 20
-    },
-    {
-      "teamAbbrev": "NYI",
-      "teamName": "",
-      "new": 0,
-      "existing": 22,
-      "total": 22
     },
     {
       "teamAbbrev": "NSH",
@@ -203,8 +203,8 @@
     {
       "teamAbbrev": "NJD",
       "teamName": "",
-      "new": 0,
-      "existing": 22,
+      "new": 1,
+      "existing": 21,
       "total": 22
     },
     {

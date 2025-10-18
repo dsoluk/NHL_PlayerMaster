@@ -13910,31 +13910,6 @@
         }
       },
       {
-        "id": 8477986,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477986.png",
-        "firstName": {
-          "default": "Brandon"
-        },
-        "lastName": {
-          "default": "Montour"
-        },
-        "sweaterNumber": 62,
-        "positionCode": "D",
-        "shootsCatches": "R",
-        "heightInInches": 72,
-        "weightInPounds": 199,
-        "heightInCentimeters": 183,
-        "weightInKilograms": 90,
-        "birthDate": "1994-04-11",
-        "birthCity": {
-          "default": "Brantford"
-        },
-        "birthCountry": "CAN",
-        "birthStateProvince": {
-          "default": "ON"
-        }
-      },
-      {
         "id": 8476467,
         "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476467.png",
         "firstName": {
