@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="changed project name">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team2TM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Team2TM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_teams_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" beforeDir="false" afterPath="$PROJECT_DIR$/all_teams_data_with_master_ids.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_players.json" beforeDir="false" afterPath="$PROJECT_DIR$/hr_players.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nst_players.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_players.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nst_run_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/nst_run_summary.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_registry.json" beforeDir="false" afterPath="$PROJECT_DIR$/player_registry.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/run_summary.json" afterDir="false" />
-    </list>
+    <list default="true" id="1ccca037-0f44-4d5a-b896-a60357790d13" name="Changes" comment="added ag source and misc cleanup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +99,7 @@
       <workItem from="1733872522095" duration="21435000" />
       <workItem from="1760660432957" duration="1485000" />
       <workItem from="1760710740390" duration="27480000" />
-      <workItem from="1760827632085" duration="3027000" />
+      <workItem from="1760827632085" duration="3098000" />
     </task>
     <task id="LOCAL-00001" summary="added summary">
       <option name="closed" value="true" />
@@ -145,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760813021038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added ag source and misc cleanup">
+      <option name="closed" value="true" />
+      <created>1760830773702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760830773702</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +163,8 @@
     <MESSAGE value="added nst" />
     <MESSAGE value="fixed logic and added hr" />
     <MESSAGE value="changed project name" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed project name" />
+    <MESSAGE value="added ag source and misc cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ag source and misc cleanup" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NHLfantasy$main.coverage" NAME="main Coverage Results" MODIFIED="1760812627424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

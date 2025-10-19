@@ -610,17 +610,6 @@
         "master_id": 54
       },
       {
-        "source_id": 8479359,
-        "name": "Beck Malenstyn",
-        "attributes": {
-          "position": "F",
-          "jersey_number": 29,
-          "last_seen_teamAbbrev": "",
-          "last_seen_teamName": ""
-        },
-        "master_id": 55
-      },
-      {
         "source_id": 8480802,
         "name": "Ryan McLeod",
         "attributes": {
@@ -629,7 +618,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 56
+        "master_id": 55
       },
       {
         "source_id": 8480064,
@@ -640,7 +629,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 57
+        "master_id": 56
       },
       {
         "source_id": 8482097,
@@ -651,7 +640,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 58
+        "master_id": 57
       },
       {
         "source_id": 8479420,
@@ -662,7 +651,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 59
+        "master_id": 58
       },
       {
         "source_id": 8477949,
@@ -673,7 +662,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 60
+        "master_id": 59
       },
       {
         "source_id": 8475722,
@@ -684,7 +673,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 61
+        "master_id": 60
       },
       {
         "source_id": 8480196,
@@ -695,7 +684,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 62
+        "master_id": 61
       },
       {
         "source_id": 8481524,
@@ -706,7 +695,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 63
+        "master_id": 62
       },
       {
         "source_id": 8480839,
@@ -714,6 +703,17 @@
         "attributes": {
           "position": "D",
           "jersey_number": 26,
+          "last_seen_teamAbbrev": "",
+          "last_seen_teamName": ""
+        },
+        "master_id": 63
+      },
+      {
+        "source_id": 8481708,
+        "name": "Zac Jones",
+        "attributes": {
+          "position": "D",
+          "jersey_number": 28,
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
@@ -5387,11 +5387,11 @@
         "master_id": 479
       },
       {
-        "source_id": 8482447,
-        "name": "Leevi Meril\u00e4inen",
+        "source_id": 8481544,
+        "name": "Mads Sogaard",
         "attributes": {
           "position": "G",
-          "jersey_number": 1,
+          "jersey_number": 40,
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
@@ -6197,6 +6197,17 @@
         "master_id": 551
       },
       {
+        "source_id": 8482866,
+        "name": "Ville Ottavainen",
+        "attributes": {
+          "position": "D",
+          "jersey_number": 46,
+          "last_seen_teamAbbrev": "",
+          "last_seen_teamName": ""
+        },
+        "master_id": 552
+      },
+      {
         "source_id": 8478916,
         "name": "Joey Daccord",
         "attributes": {
@@ -6205,7 +6216,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 552
+        "master_id": 553
       },
       {
         "source_id": 8475831,
@@ -6216,7 +6227,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 553
+        "master_id": 554
       },
       {
         "source_id": 8476899,
@@ -6227,7 +6238,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 554
+        "master_id": 555
       }
     ]
   },
@@ -6244,7 +6255,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 555
+        "master_id": 556
       },
       {
         "source_id": 8480848,
@@ -6255,7 +6266,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 556
+        "master_id": 557
       },
       {
         "source_id": 8482667,
@@ -6266,7 +6277,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 557
+        "master_id": 558
       },
       {
         "source_id": 8478874,
@@ -6277,7 +6288,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 558
+        "master_id": 559
       },
       {
         "source_id": 8476624,
@@ -6288,7 +6299,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 559
+        "master_id": 560
       },
       {
         "source_id": 8484911,
@@ -6299,7 +6310,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 560
+        "master_id": 561
       },
       {
         "source_id": 8480798,
@@ -6310,7 +6321,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 561
+        "master_id": 562
       },
       {
         "source_id": 8485402,
@@ -6321,7 +6332,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 562
+        "master_id": 563
       },
       {
         "source_id": 8471817,
@@ -6332,7 +6343,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 563
+        "master_id": 564
       },
       {
         "source_id": 8475784,
@@ -6343,7 +6354,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 564
+        "master_id": 565
       },
       {
         "source_id": 8484227,
@@ -6354,7 +6365,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 565
+        "master_id": 566
       },
       {
         "source_id": 8475726,
@@ -6365,7 +6376,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 566
+        "master_id": 567
       },
       {
         "source_id": 8477505,
@@ -6376,7 +6387,18 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 567
+        "master_id": 568
+      },
+      {
+        "source_id": 8484152,
+        "name": "Luca Cagnoni",
+        "attributes": {
+          "position": "D",
+          "jersey_number": 42,
+          "last_seen_teamAbbrev": "",
+          "last_seen_teamName": ""
+        },
+        "master_id": 569
       },
       {
         "source_id": 8479576,
@@ -6387,7 +6409,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 568
+        "master_id": 570
       },
       {
         "source_id": 8484806,
@@ -6398,7 +6420,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 569
+        "master_id": 571
       },
       {
         "source_id": 8479983,
@@ -6409,7 +6431,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 570
+        "master_id": 572
       },
       {
         "source_id": 8482861,
@@ -6420,7 +6442,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 571
+        "master_id": 573
       },
       {
         "source_id": 8475906,
@@ -6431,7 +6453,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 572
+        "master_id": 574
       },
       {
         "source_id": 8475181,
@@ -6442,7 +6464,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 573
+        "master_id": 575
       },
       {
         "source_id": 8480043,
@@ -6453,7 +6475,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 574
+        "master_id": 576
       },
       {
         "source_id": 8482166,
@@ -6464,7 +6486,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 575
+        "master_id": 577
       },
       {
         "source_id": 8475200,
@@ -6475,7 +6497,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 576
+        "master_id": 578
       },
       {
         "source_id": 8482137,
@@ -6486,7 +6508,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 577
+        "master_id": 579
       },
       {
         "source_id": 8477968,
@@ -6497,7 +6519,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 578
+        "master_id": 580
       }
     ]
   },
@@ -6514,7 +6536,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 579
+        "master_id": 581
       },
       {
         "source_id": 8477402,
@@ -6525,7 +6547,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 580
+        "master_id": 582
       },
       {
         "source_id": 8482077,
@@ -6536,7 +6558,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 581
+        "master_id": 583
       },
       {
         "source_id": 8478472,
@@ -6547,7 +6569,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 582
+        "master_id": 584
       },
       {
         "source_id": 8479385,
@@ -6558,7 +6580,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 583
+        "master_id": 585
       },
       {
         "source_id": 8482089,
@@ -6569,7 +6591,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 584
+        "master_id": 586
       },
       {
         "source_id": 8475170,
@@ -6580,7 +6602,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 585
+        "master_id": 587
       },
       {
         "source_id": 8483516,
@@ -6591,7 +6613,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 586
+        "master_id": 588
       },
       {
         "source_id": 8476897,
@@ -6602,7 +6624,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 587
+        "master_id": 589
       },
       {
         "source_id": 8480459,
@@ -6613,7 +6635,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 588
+        "master_id": 590
       },
       {
         "source_id": 8480074,
@@ -6624,7 +6646,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 589
+        "master_id": 591
       },
       {
         "source_id": 8480023,
@@ -6635,7 +6657,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 590
+        "master_id": 592
       },
       {
         "source_id": 8480281,
@@ -6646,7 +6668,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 591
+        "master_id": 593
       },
       {
         "source_id": 8477573,
@@ -6657,7 +6679,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 592
+        "master_id": 594
       },
       {
         "source_id": 8481598,
@@ -6668,7 +6690,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 593
+        "master_id": 595
       },
       {
         "source_id": 8475753,
@@ -6679,7 +6701,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 594
+        "master_id": 596
       },
       {
         "source_id": 8475764,
@@ -6690,7 +6712,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 595
+        "master_id": 597
       },
       {
         "source_id": 8482516,
@@ -6701,7 +6723,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 596
+        "master_id": 598
       },
       {
         "source_id": 8482733,
@@ -6712,7 +6734,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 597
+        "master_id": 599
       },
       {
         "source_id": 8476892,
@@ -6723,7 +6745,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 598
+        "master_id": 600
       },
       {
         "source_id": 8481006,
@@ -6734,7 +6756,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 599
+        "master_id": 601
       },
       {
         "source_id": 8476412,
@@ -6745,7 +6767,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 600
+        "master_id": 602
       },
       {
         "source_id": 8480981,
@@ -6756,7 +6778,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 601
+        "master_id": 603
       }
     ]
   },
@@ -6773,7 +6795,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 602
+        "master_id": 604
       },
       {
         "source_id": 8482070,
@@ -6784,7 +6806,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 603
+        "master_id": 605
       },
       {
         "source_id": 8478519,
@@ -6795,7 +6817,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 604
+        "master_id": 606
       },
       {
         "source_id": 8480876,
@@ -6806,7 +6828,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 605
+        "master_id": 607
       },
       {
         "source_id": 8482090,
@@ -6817,7 +6839,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 606
+        "master_id": 608
       },
       {
         "source_id": 8483447,
@@ -6828,7 +6850,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 607
+        "master_id": 609
       },
       {
         "source_id": 8476878,
@@ -6839,7 +6861,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 608
+        "master_id": 610
       },
       {
         "source_id": 8482201,
@@ -6850,7 +6872,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 609
+        "master_id": 611
       },
       {
         "source_id": 8476826,
@@ -6861,7 +6883,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 610
+        "master_id": 612
       },
       {
         "source_id": 8477404,
@@ -6872,7 +6894,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 611
+        "master_id": 613
       },
       {
         "source_id": 8479542,
@@ -6883,7 +6905,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 612
+        "master_id": 614
       },
       {
         "source_id": 8480995,
@@ -6894,7 +6916,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 613
+        "master_id": 615
       },
       {
         "source_id": 8476453,
@@ -6905,7 +6927,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 614
+        "master_id": 616
       },
       {
         "source_id": 8477426,
@@ -6916,7 +6938,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 615
+        "master_id": 617
       },
       {
         "source_id": 8478010,
@@ -6927,18 +6949,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 616
-      },
-      {
-        "source_id": 8477149,
-        "name": "Scott Sabourin",
-        "attributes": {
-          "position": "F",
-          "jersey_number": 46,
-          "last_seen_teamAbbrev": "",
-          "last_seen_teamName": ""
-        },
-        "master_id": 617
+        "master_id": 618
       },
       {
         "source_id": 8478416,
@@ -6949,7 +6960,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 618
+        "master_id": 619
       },
       {
         "source_id": 8481719,
@@ -6960,7 +6971,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 619
+        "master_id": 620
       },
       {
         "source_id": 8475167,
@@ -6971,7 +6982,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 620
+        "master_id": 621
       },
       {
         "source_id": 8482929,
@@ -6982,7 +6993,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 621
+        "master_id": 622
       },
       {
         "source_id": 8474151,
@@ -6993,7 +7004,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 622
+        "master_id": 623
       },
       {
         "source_id": 8482655,
@@ -7004,7 +7015,7 @@
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },
-        "master_id": 623
+        "master_id": 624
       },
       {
         "source_id": 8478178,
@@ -7012,17 +7023,6 @@
         "attributes": {
           "position": "D",
           "jersey_number": 43,
-          "last_seen_teamAbbrev": "",
-          "last_seen_teamName": ""
-        },
-        "master_id": 624
-      },
-      {
-        "source_id": 8477463,
-        "name": "Steven Santini",
-        "attributes": {
-          "position": "D",
-          "jersey_number": 64,
           "last_seen_teamAbbrev": "",
           "last_seen_teamName": ""
         },

@@ -1,7 +1,7 @@
 {
   "totals": {
-    "new": 2,
-    "existing": 711
+    "new": 3,
+    "existing": 721
   },
   "teams": [
     {
@@ -71,29 +71,29 @@
       "teamAbbrev": "CGY",
       "teamName": "",
       "new": 0,
-      "existing": 23,
-      "total": 23
+      "existing": 24,
+      "total": 24
     },
     {
       "teamAbbrev": "SEA",
       "teamName": "",
       "new": 0,
-      "existing": 20,
-      "total": 20
+      "existing": 22,
+      "total": 22
     },
     {
       "teamAbbrev": "NSH",
       "teamName": "",
       "new": 0,
-      "existing": 22,
-      "total": 22
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "VGK",
       "teamName": "",
       "new": 0,
-      "existing": 22,
-      "total": 22
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "LAK",
@@ -134,8 +134,8 @@
       "teamAbbrev": "MTL",
       "teamName": "",
       "new": 0,
-      "existing": 21,
-      "total": 21
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "WSH",
@@ -162,8 +162,8 @@
       "teamAbbrev": "STL",
       "teamName": "",
       "new": 0,
-      "existing": 21,
-      "total": 21
+      "existing": 22,
+      "total": 22
     },
     {
       "teamAbbrev": "TBL",
@@ -183,8 +183,8 @@
       "teamAbbrev": "BOS",
       "teamName": "",
       "new": 0,
-      "existing": 22,
-      "total": 22
+      "existing": 23,
+      "total": 23
     },
     {
       "teamAbbrev": "PIT",
@@ -210,23 +210,23 @@
     {
       "teamAbbrev": "OTT",
       "teamName": "",
-      "new": 0,
-      "existing": 25,
+      "new": 1,
+      "existing": 24,
       "total": 25
     },
     {
       "teamAbbrev": "COL",
       "teamName": "",
       "new": 0,
-      "existing": 20,
-      "total": 20
+      "existing": 21,
+      "total": 21
     },
     {
       "teamAbbrev": "MIN",
       "teamName": "",
       "new": 1,
-      "existing": 21,
-      "total": 22
+      "existing": 22,
+      "total": 23
     }
   ]
 }

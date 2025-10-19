@@ -1366,31 +1366,6 @@
         "birthCountry": "CZE"
       },
       {
-        "id": 8479359,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479359.png",
-        "firstName": {
-          "default": "Beck"
-        },
-        "lastName": {
-          "default": "Malenstyn"
-        },
-        "sweaterNumber": 29,
-        "positionCode": "L",
-        "shootsCatches": "L",
-        "heightInInches": 75,
-        "weightInPounds": 209,
-        "heightInCentimeters": 191,
-        "weightInKilograms": 95,
-        "birthDate": "1998-02-04",
-        "birthCity": {
-          "default": "Delta"
-        },
-        "birthCountry": "CAN",
-        "birthStateProvince": {
-          "default": "BC"
-        }
-      },
-      {
         "id": 8480802,
         "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480802.png",
         "firstName": {
@@ -1618,6 +1593,31 @@
           "sv": "Lidk\u00f6ping"
         },
         "birthCountry": "SWE"
+      },
+      {
+        "id": 8481708,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481708.png",
+        "firstName": {
+          "default": "Zac"
+        },
+        "lastName": {
+          "default": "Jones"
+        },
+        "sweaterNumber": 28,
+        "positionCode": "D",
+        "shootsCatches": "L",
+        "heightInInches": 71,
+        "weightInPounds": 190,
+        "heightInCentimeters": 180,
+        "weightInKilograms": 86,
+        "birthDate": "2000-10-18",
+        "birthCity": {
+          "default": "Richmond"
+        },
+        "birthCountry": "USA",
+        "birthStateProvince": {
+          "default": "VA"
+        }
       },
       {
         "id": 8480891,
@@ -12112,27 +12112,30 @@
     ],
     "goalies": [
       {
-        "id": 8482447,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482447.png",
+        "id": 8481544,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481544.png",
         "firstName": {
-          "default": "Leevi"
+          "default": "Mads"
         },
         "lastName": {
-          "default": "Meril\u00e4inen"
+          "default": "Sogaard",
+          "fi": "S\u00f8gaard",
+          "sv": "S\u00f8gaard"
         },
-        "sweaterNumber": 1,
+        "sweaterNumber": 40,
         "positionCode": "G",
         "shootsCatches": "L",
-        "heightInInches": 74,
-        "weightInPounds": 196,
-        "heightInCentimeters": 188,
-        "weightInKilograms": 89,
-        "birthDate": "2002-08-13",
+        "heightInInches": 79,
+        "weightInPounds": 231,
+        "heightInCentimeters": 201,
+        "weightInKilograms": 105,
+        "birthDate": "2000-12-13",
         "birthCity": {
-          "default": "Oulu",
-          "sv": "Ule\u00e5borg"
+          "default": "Aalborg",
+          "fi": "\u00c5lborg",
+          "sv": "\u00c5lborg"
         },
-        "birthCountry": "FIN"
+        "birthCountry": "DNK"
       },
       {
         "id": 8476999,
@@ -13933,6 +13936,29 @@
         "birthStateProvince": {
           "default": "ON"
         }
+      },
+      {
+        "id": 8482866,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482866.png",
+        "firstName": {
+          "default": "Ville"
+        },
+        "lastName": {
+          "default": "Ottavainen"
+        },
+        "sweaterNumber": 46,
+        "positionCode": "D",
+        "shootsCatches": "R",
+        "heightInInches": 77,
+        "weightInPounds": 210,
+        "heightInCentimeters": 196,
+        "weightInKilograms": 95,
+        "birthDate": "2002-08-12",
+        "birthCity": {
+          "default": "Oulu",
+          "sv": "Ule\u00e5borg"
+        },
+        "birthCountry": "FIN"
       }
     ],
     "goalies": [
@@ -14335,6 +14361,31 @@
       }
     ],
     "defensemen": [
+      {
+        "id": 8484152,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484152.png",
+        "firstName": {
+          "default": "Luca"
+        },
+        "lastName": {
+          "default": "Cagnoni"
+        },
+        "sweaterNumber": 42,
+        "positionCode": "D",
+        "shootsCatches": "L",
+        "heightInInches": 69,
+        "weightInPounds": 180,
+        "heightInCentimeters": 175,
+        "weightInKilograms": 82,
+        "birthDate": "2004-12-21",
+        "birthCity": {
+          "default": "Burnaby"
+        },
+        "birthCountry": "CAN",
+        "birthStateProvince": {
+          "default": "BC"
+        }
+      },
       {
         "id": 8479576,
         "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479576.png",
@@ -15574,32 +15625,6 @@
         "birthStateProvince": {
           "default": "AB"
         }
-      },
-      {
-        "id": 8477149,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477149.png",
-        "firstName": {
-          "default": "Scott"
-        },
-        "lastName": {
-          "default": "Sabourin"
-        },
-        "sweaterNumber": 46,
-        "positionCode": "R",
-        "shootsCatches": "R",
-        "heightInInches": 75,
-        "weightInPounds": 205,
-        "heightInCentimeters": 191,
-        "weightInKilograms": 93,
-        "birthDate": "1992-07-30",
-        "birthCity": {
-          "default": "Orleans",
-          "fr": "Orl\u00e9ans"
-        },
-        "birthCountry": "CAN",
-        "birthStateProvince": {
-          "default": "ON"
-        }
       }
     ],
     "defensemen": [
@@ -15773,31 +15798,6 @@
         "birthCountry": "CAN",
         "birthStateProvince": {
           "default": "ON"
-        }
-      },
-      {
-        "id": 8477463,
-        "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477463.png",
-        "firstName": {
-          "default": "Steven"
-        },
-        "lastName": {
-          "default": "Santini"
-        },
-        "sweaterNumber": 64,
-        "positionCode": "D",
-        "shootsCatches": "R",
-        "heightInInches": 75,
-        "weightInPounds": 217,
-        "heightInCentimeters": 191,
-        "weightInKilograms": 98,
-        "birthDate": "1995-03-07",
-        "birthCity": {
-          "default": "Bronxville"
-        },
-        "birthCountry": "USA",
-        "birthStateProvince": {
-          "default": "NY"
         }
       }
     ],
